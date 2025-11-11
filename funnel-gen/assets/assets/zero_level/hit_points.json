@@ -1,0 +1,7 @@
+{
+    "hp": {
+        "dice": "1d4",
+        "addConModifier": true,
+        "minimum": 1
+    }
+}

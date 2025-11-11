@@ -1,0 +1,46 @@
+{
+    "gear_kits": [
+        {
+            "name": "Farmer Kit",
+            "items": [
+                {
+                    "name": "Club",
+                    "quantity": 1
+                },
+                {
+                    "name": "Farming Tools",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rations",
+                    "quantity": 3
+                },
+                {
+                    "name": "Copper Pieces",
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "name": "Artisan Kit",
+            "items": [
+                {
+                    "name": "Dagger",
+                    "quantity": 1
+                },
+                {
+                    "name": "Artisan's Tools",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rations",
+                    "quantity": 3
+                },
+                {
+                    "name": "Copper Pieces",
+                    "quantity": 5
+                }
+            ]
+        }
+    ]
+}

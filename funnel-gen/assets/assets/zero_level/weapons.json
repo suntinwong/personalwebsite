@@ -1,0 +1,268 @@
+{
+    "weapons": [
+        {
+            "name": "Club",
+            "damage": "1d4",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Dagger",
+            "damage": "1d4",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Shortsword",
+            "damage": "1d6",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Short Sword",
+            "damage": "1d6",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Quarterstaff",
+            "damage": "1d6",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Light Hammer",
+            "damage": "1d4",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Handaxe",
+            "damage": "1d6",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Greataxe",
+            "damage": "1d12",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Maul",
+            "damage": "2d6",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Whip",
+            "damage": "1d4",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Net",
+            "damage": "0",
+            "type": "special",
+            "ability": "DEX"
+        },
+        {
+            "name": "Spear",
+            "damage": "1d6",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Pitchfork (Spear)",
+            "damage": "1d6",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Scimitar",
+            "damage": "1d6",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Blowgun (10 needles)",
+            "damage": "1",
+            "type": "ranged",
+            "ability": "DEX"
+        },
+        {
+            "name": "Flail",
+            "damage": "1d8",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Short bow",
+            "damage": "1d6",
+            "type": "ranged",
+            "ability": "DEX"
+        },
+        {
+            "name": "Shortbow (20 arrows)",
+            "damage": "1d6",
+            "type": "ranged",
+            "ability": "DEX"
+        },
+        {
+            "name": "Shortbow (10 arrows)",
+            "damage": "1d6",
+            "type": "ranged",
+            "ability": "DEX"
+        },
+        {
+            "name": "Longbow (10 arrows)",
+            "damage": "1d8",
+            "type": "ranged",
+            "ability": "DEX"
+        },
+        {
+            "name": "Longbow (io arrows)",
+            "damage": "1d8",
+            "type": "ranged",
+            "ability": "DEX"
+        },
+        {
+            "name": "Light Crossbow (20 Bolts)",
+            "damage": "1d8",
+            "type": "ranged",
+            "ability": "DEX"
+        },
+        {
+            "name": "Hand Crossbow",
+            "damage": "1d6",
+            "type": "ranged",
+            "ability": "DEX"
+        },
+        {
+            "name": "Sickle",
+            "damage": "1d4",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Mace",
+            "damage": "1d6",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Rapier",
+            "damage": "1d8",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Longsword",
+            "damage": "1d8",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Greatclub",
+            "damage": "1d8",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Broom (Quarterstaff)",
+            "damage": "1d6",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Butcher Knife (Handaxe)",
+            "damage": "1d6",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Bone Knife (Dagger)",
+            "damage": "1d4",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Knife (Dagger)",
+            "damage": "1d4",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Scissors (Dagger)",
+            "damage": "1d4",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Compass (dagger)",
+            "damage": "1d4",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Chisel (Dagger)",
+            "damage": "1d4",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Quill (dagger)",
+            "damage": "1d4",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Ornate Dagger",
+            "damage": "1d4",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Cast Iron Pan (Club)",
+            "damage": "1d4",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Steel Beer Stein (Club)",
+            "damage": "1d4",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Rolling Pin (club)",
+            "damage": "1d4",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Wooden Spoon (club)",
+            "damage": "1d4",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Brush (Club)",
+            "damage": "1d4",
+            "type": "melee",
+            "ability": "STR"
+        },
+        {
+            "name": "Shears (Shortsword)",
+            "damage": "1d6",
+            "type": "finesse",
+            "ability": "DEX"
+        },
+        {
+            "name": "Quarterstaff (with religious ornament)",
+            "damage": "1d6",
+            "type": "melee",
+            "ability": "STR"
+        }
+    ]
+}

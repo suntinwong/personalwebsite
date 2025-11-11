@@ -1,0 +1,15 @@
+{
+    "proficiencies": {
+        "weapons": [
+            "Club",
+            "Dagger",
+            "Quarterstaff",
+            "Sling",
+            "Spear"
+        ],
+        "tools": [
+            "Artisan's Tools",
+            "Vehicles (Land)"
+        ]
+    }
+}

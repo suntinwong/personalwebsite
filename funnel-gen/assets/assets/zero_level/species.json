@@ -1,0 +1,163 @@
+{
+    "species": [
+        {
+            "name": "Human",
+            "languages": [
+                "Common"
+            ],
+            "weight": 40,
+            "size": "Medium",
+            "speed": 30,
+            "abilityBonuses": {
+                "STR": 1,
+                "DEX": 1,
+                "CON": 1,
+                "INT": 1,
+                "WIS": 1,
+                "CHA": 1
+            },
+            "traits": []
+        },
+        {
+            "name": "Halfling",
+            "languages": [
+                "Common",
+                "Halfling"
+            ],
+            "weight": 10,
+            "size": "Small",
+            "speed": 25,
+            "abilityBonuses": {
+                "DEX": 2
+            },
+            "traits": [
+                "Brave",
+                "Halfling Nimbleness"
+            ]
+        },
+        {
+            "name": "Dwarf",
+            "languages": [
+                "Common",
+                "Dwarvish"
+            ],
+            "weight": 10,
+            "size": "Medium",
+            "speed": 25,
+            "abilityBonuses": {
+                "CON": 2
+            },
+            "traits": [
+                "Darkvision 60ft",
+                "Dwarven Toughness"
+            ]
+        },
+        {
+            "name": "Gnome",
+            "languages": [
+                "Common",
+                "Gnomish"
+            ],
+            "weight": 10,
+            "size": "Small",
+            "speed": 25,
+            "abilityBonuses": {
+                "INT": 2
+            },
+            "traits": [
+                "Darkvision 60ft",
+                "Gnome Cunning"
+            ]
+        },
+        {
+            "name": "Tiefling",
+            "languages": [
+                "Common",
+                "Infernal"
+            ],
+            "weight": 10,
+            "size": "Medium",
+            "speed": 30,
+            "abilityBonuses": {
+                "CHA": 2,
+                "INT": 1
+            },
+            "traits": [
+                "Darkvision 60ft",
+                "Hellish Resistance"
+            ]
+        },
+        {
+            "name": "Half-Elf",
+            "languages": [
+                "Common",
+                "Elvish"
+            ],
+            "weight": 10,
+            "size": "Medium",
+            "speed": 30,
+            "abilityBonuses": {
+                "CHA": 2
+            },
+            "traits": [
+                "Darkvision 60ft",
+                "Fey Ancestry"
+            ],
+            "note": "Player chooses +1 to any two abilities"
+        },
+        {
+            "name": "Elf",
+            "languages": [
+                "Common",
+                "Elvish"
+            ],
+            "weight": 7,
+            "size": "Medium",
+            "speed": 30,
+            "abilityBonuses": {
+                "DEX": 2
+            },
+            "traits": [
+                "Darkvision 60ft",
+                "Fey Ancestry",
+                "Trance"
+            ]
+        },
+        {
+            "name": "Half-Orc",
+            "languages": [
+                "Common",
+                "Orcish"
+            ],
+            "weight": 2,
+            "size": "Medium",
+            "speed": 30,
+            "abilityBonuses": {
+                "STR": 2,
+                "CON": 1
+            },
+            "traits": [
+                "Darkvision 60ft",
+                "Menacing"
+            ]
+        },
+        {
+            "name": "Dragonborn",
+            "languages": [
+                "Common",
+                "Draconic"
+            ],
+            "weight": 1,
+            "size": "Medium",
+            "speed": 30,
+            "abilityBonuses": {
+                "STR": 2,
+                "CHA": 1
+            },
+            "traits": [
+                "Draconic Ancestry",
+                "Damage Resistance"
+            ]
+        }
+    ]
+}
