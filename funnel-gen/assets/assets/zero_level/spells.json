@@ -3,51 +3,58 @@
         {
             "name": "Arcane Bolt",
             "damage": "1d4",
+            "damageType": "Force",
             "range": "30/60",
             "ability": "INT"
         },
         {
             "name": "Telekinetic Throw",
             "damage": "1d4",
+            "damageType": "Piercing",
             "range": "30/60",
             "ability": "INT"
         },
         {
             "name": "Spark Bolt",
             "damage": "1d4",
+            "damageType": "Force",
             "range": "30/60",
             "ability": "INT"
         },
         {
             "name": "Spirit Stone",
             "damage": "1",
+            "damageType": "Piercing",
             "range": "20/40",
             "ability": "WIS"
         },
         {
             "name": "Thorn Lash",
             "damage": "1d4",
+            "damageType": "Piercing",
             "range": "30/60",
             "ability": "WIS"
         },
         {
             "name": "Dealthy Chill",
             "damage": "1d4",
+            "damageType": "Cold",
             "range": "30/60",
             "ability": "WIS"
         },
         {
             "name": "Cutting Remark",
             "damage": "1",
+            "damageType": "Psychic",
             "range": "20/40",
             "ability": "CHA"
         },
         {
             "name": "Dazzling Flare",
             "damage": "1",
+            "damageType": "Psychic",
             "range": "20/40",
             "ability": "CHA"
         }
     ]
 }
-

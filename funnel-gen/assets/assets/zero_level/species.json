@@ -17,7 +17,20 @@
                 "CHA": 1
             },
             "traits": [],
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Human"
+            "skillProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "weaponProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "toolProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "randomLanguages": 1,
+            "url": "https://roll20.net/compendium/dnd5e/Races:Human#content"
         },
         {
             "name": "Halfling",
@@ -35,9 +48,23 @@
             "traits": [
                 "Lucky",
                 "Brave",
-                "Nimble"
+                "Nimble",
+                "Naturally Stealthy"
             ],
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Halfling"
+            "skillProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "weaponProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "toolProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "randomLanguages": 0,
+            "url": "https://roll20.net/compendium/dnd5e/Races:Halfling#content"
         },
         {
             "name": "Dwarf",
@@ -53,11 +80,37 @@
                 "WIS": 1
             },
             "traits": [
-                "Darkvision 60ft",
+                "Darkvision",
                 "Dwarven Resilience",
-                "Dwarven Combat Training"
+                "Dwarven Combat Training",
+                "Dwarven Toughness"
             ],
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Dwarf"
+            "skillProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "weaponProficiencies": {
+                "fixed": [
+                    "Battleaxe",
+                    "Handaxe",
+                    "Light Hammer",
+                    "Warhammer"
+                ],
+                "random": 0
+            },
+            "toolProficiencies": {
+                "fixed": [
+                    "Tinker's Tools"
+                ],
+                "random": 1,
+                "randomOptions": [
+                    "Smith's Tools",
+                    "Brewer's Supplies",
+                    "Mason's Tools"
+                ]
+            },
+            "randomLanguages": 0,
+            "url": "https://roll20.net/compendium/dnd5e/Races:Dwarf#content"
         },
         {
             "name": "Gnome",
@@ -73,10 +126,25 @@
                 "CON": 1
             },
             "traits": [
-                "Darkvision 60ft",
+                "Darkvision",
                 "Gnome Cunning"
             ],
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Gnome"
+            "skillProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "weaponProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "toolProficiencies": {
+                "fixed": [
+                    "Tinker's Tools"
+                ],
+                "random": 0
+            },
+            "randomLanguages": 0,
+            "url": "https://roll20.net/compendium/dnd5e/Races:Gnome#content"
         },
         {
             "name": "Tiefling",
@@ -92,10 +160,23 @@
                 "INT": 1
             },
             "traits": [
-                "Darkvision 60ft",
+                "Darkvision",
                 "Hellish Resistance"
             ],
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Tiefling"
+            "skillProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "weaponProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "toolProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "randomLanguages": 0,
+            "url": "https://roll20.net/compendium/dnd5e/Races:Tiefling#content"
         },
         {
             "name": "Half-Elf",
@@ -108,14 +189,28 @@
             "speed": 30,
             "abilityBonuses": {
                 "CHA": 2,
-                "DEX": 1
+                "DEX": 1,
+                "INT": 1
             },
             "traits": [
-                "Darkvision 60ft",
+                "Darkvision",
                 "Fey Ancestry"
             ],
             "note": "Player chooses +1 to any two abilities",
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Half-Elf"
+            "skillProficiencies": {
+                "fixed": [],
+                "random": 2
+            },
+            "weaponProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "toolProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "randomLanguages": 0,
+            "url": "https://roll20.net/compendium/dnd5e/Races:Half%2DElf#content"
         },
         {
             "name": "Elf",
@@ -131,12 +226,32 @@
                 "INT": 1
             },
             "traits": [
-                "Darkvision 60ft",
+                "Darkvision",
                 "Keen Senses",
                 "Fey Ancestry",
                 "Trance"
             ],
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Elf"
+            "skillProficiencies": {
+                "fixed": [
+                    "Perception"
+                ],
+                "random": 0
+            },
+            "weaponProficiencies": {
+                "fixed": [
+                    "Longsword",
+                    "Shortsword",
+                    "Shortbow",
+                    "Longbow"
+                ],
+                "random": 0
+            },
+            "toolProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "randomLanguages": 1,
+            "url": "https://roll20.net/compendium/dnd5e/Races:Elf#content"
         },
         {
             "name": "Half-Orc",
@@ -152,12 +267,27 @@
                 "CON": 1
             },
             "traits": [
-                "Darkvision 60ft",
+                "Darkvision",
                 "Menacing",
                 "Relentless Endurance",
                 "Savage Attacks"
             ],
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Half-Orc"
+            "skillProficiencies": {
+                "fixed": [
+                    "Intimidation"
+                ],
+                "random": 0
+            },
+            "weaponProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "toolProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "randomLanguages": 0,
+            "url": "https://roll20.net/compendium/dnd5e/Half-Orc#content"
         },
         {
             "name": "Dragonborn",
@@ -176,7 +306,20 @@
                 "Draconic Ancestry",
                 "Damage Resistance"
             ],
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Dragonborn"
+            "skillProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "weaponProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "toolProficiencies": {
+                "fixed": [],
+                "random": 0
+            },
+            "randomLanguages": 0,
+            "url": "https://roll20.net/compendium/dnd5e/Races:Dragonborn#content"
         }
     ]
 }
