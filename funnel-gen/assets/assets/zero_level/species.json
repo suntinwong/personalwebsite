@@ -16,7 +16,8 @@
                 "WIS": 1,
                 "CHA": 1
             },
-            "traits": []
+            "traits": [],
+            "url": "https://www.dandwiki.com/wiki/5e_SRD:Human"
         },
         {
             "name": "Halfling",
@@ -28,12 +29,15 @@
             "size": "Small",
             "speed": 25,
             "abilityBonuses": {
-                "DEX": 2
+                "DEX": 2,
+                "CHA": 1
             },
             "traits": [
+                "Lucky",
                 "Brave",
-                "Halfling Nimbleness"
-            ]
+                "Nimble"
+            ],
+            "url": "https://www.dandwiki.com/wiki/5e_SRD:Halfling"
         },
         {
             "name": "Dwarf",
@@ -45,12 +49,15 @@
             "size": "Medium",
             "speed": 25,
             "abilityBonuses": {
-                "CON": 2
+                "CON": 2,
+                "WIS": 1
             },
             "traits": [
                 "Darkvision 60ft",
-                "Dwarven Toughness"
-            ]
+                "Dwarven Resilience",
+                "Dwarven Combat Training"
+            ],
+            "url": "https://www.dandwiki.com/wiki/5e_SRD:Dwarf"
         },
         {
             "name": "Gnome",
@@ -62,12 +69,14 @@
             "size": "Small",
             "speed": 25,
             "abilityBonuses": {
-                "INT": 2
+                "INT": 2,
+                "CON": 1
             },
             "traits": [
                 "Darkvision 60ft",
                 "Gnome Cunning"
-            ]
+            ],
+            "url": "https://www.dandwiki.com/wiki/5e_SRD:Gnome"
         },
         {
             "name": "Tiefling",
@@ -85,7 +94,8 @@
             "traits": [
                 "Darkvision 60ft",
                 "Hellish Resistance"
-            ]
+            ],
+            "url": "https://www.dandwiki.com/wiki/5e_SRD:Tiefling"
         },
         {
             "name": "Half-Elf",
@@ -97,13 +107,15 @@
             "size": "Medium",
             "speed": 30,
             "abilityBonuses": {
-                "CHA": 2
+                "CHA": 2,
+                "DEX": 1
             },
             "traits": [
                 "Darkvision 60ft",
                 "Fey Ancestry"
             ],
-            "note": "Player chooses +1 to any two abilities"
+            "note": "Player chooses +1 to any two abilities",
+            "url": "https://www.dandwiki.com/wiki/5e_SRD:Half-Elf"
         },
         {
             "name": "Elf",
@@ -115,13 +127,16 @@
             "size": "Medium",
             "speed": 30,
             "abilityBonuses": {
-                "DEX": 2
+                "DEX": 2,
+                "INT": 1
             },
             "traits": [
                 "Darkvision 60ft",
+                "Keen Senses",
                 "Fey Ancestry",
                 "Trance"
-            ]
+            ],
+            "url": "https://www.dandwiki.com/wiki/5e_SRD:Elf"
         },
         {
             "name": "Half-Orc",
@@ -138,8 +153,11 @@
             },
             "traits": [
                 "Darkvision 60ft",
-                "Menacing"
-            ]
+                "Menacing",
+                "Relentless Endurance",
+                "Savage Attacks"
+            ],
+            "url": "https://www.dandwiki.com/wiki/5e_SRD:Half-Orc"
         },
         {
             "name": "Dragonborn",
@@ -157,7 +175,8 @@
             "traits": [
                 "Draconic Ancestry",
                 "Damage Resistance"
-            ]
+            ],
+            "url": "https://www.dandwiki.com/wiki/5e_SRD:Dragonborn"
         }
     ]
 }

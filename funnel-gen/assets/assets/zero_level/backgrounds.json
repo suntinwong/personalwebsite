@@ -4,7 +4,6 @@
             "name": "Blacksmith",
             "skills": [],
             "tools": [
-                "Smith's Tools",
                 "Smith's Tools"
             ],
             "languages": [],
@@ -20,14 +19,13 @@
         {
             "name": "Miner",
             "skills": [
-                "Investigation",
                 "Investigation"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "STR",
             "startingWeapon": "Handaxe",
-            "weaponTypeProficiency": "Handaxes",
+            "weaponTypeProficiency": "",
             "coin": "d20 ep",
             "bonusItem": "Pick, Miner's",
             "clothes": "Common",
@@ -55,17 +53,16 @@
             "languages": [],
             "abilityScore": "STR",
             "startingWeapon": "Maul",
-            "weaponTypeProficiency": "",
+            "weaponTypeProficiency": "Simple Weapons",
             "coin": "d10 gp",
-            "bonusItem": "Ringmail",
-            "clothes": "Traveler's",
+            "bonusItem": "Shield",
+            "clothes": "Chain Mail, Traveler's",
             "savingThrowProficiency": "",
-            "armorProficiency": "Heavy Armor"
+            "armorProficiency": "Heavy Armor, Shields"
         },
         {
             "name": "Plowman",
             "skills": [
-                "Nature",
                 "Nature"
             ],
             "tools": [],
@@ -82,7 +79,6 @@
         {
             "name": "Rough",
             "skills": [
-                "Intimidation",
                 "Intimidation"
             ],
             "tools": [],
@@ -91,10 +87,10 @@
             "startingWeapon": "Club",
             "weaponTypeProficiency": "",
             "coin": "d6 sp",
-            "bonusItem": "Leather armor",
-            "clothes": "Common",
+            "bonusItem": "",
+            "clothes": "Leather Armor, Common",
             "savingThrowProficiency": "",
-            "armorProficiency": ""
+            "armorProficiency": "Light Armor"
         },
         {
             "name": "Butcher",
@@ -103,12 +99,12 @@
             "languages": [],
             "abilityScore": "STR",
             "startingWeapon": "Butcher Knife (Handaxe)",
-            "weaponTypeProficiency": "Handaxes",
+            "weaponTypeProficiency": "",
             "coin": "d10 sp",
             "bonusItem": "5 pounds of jerky",
             "clothes": "Common",
             "savingThrowProficiency": "",
-            "armorProficiency": "Handaxes"
+            "armorProficiency": ""
         },
         {
             "name": "Gladiator",
@@ -116,25 +112,24 @@
             "tools": [],
             "languages": [],
             "abilityScore": "STR",
-            "startingWeapon": "Net",
-            "weaponTypeProficiency": "",
+            "startingWeapon": "Shortsword",
+            "weaponTypeProficiency": "Simple Weapons, Martial Weapons",
             "coin": "d12 gp",
-            "bonusItem": "Chain shirt",
-            "clothes": "Traveler's",
-            "savingThrowProficiency": "",
-            "armorProficiency": "Simple Weapons"
+            "bonusItem": "",
+            "clothes": "Chain shirt, Traveler's",
+            "savingThrowProficiency": "STR",
+            "armorProficiency": "Medium Armor, Shields"
         },
         {
             "name": "Woodcutter",
             "skills": [
-                "Nature",
                 "Nature"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "STR",
             "startingWeapon": "Handaxe",
-            "weaponTypeProficiency": "Handaxes",
+            "weaponTypeProficiency": "",
             "coin": "d6 sp",
             "bonusItem": "A tie of cut wood",
             "clothes": "Common",
@@ -145,7 +140,6 @@
             "name": "Carpenter",
             "skills": [],
             "tools": [
-                "Carpenter's Tools",
                 "Carpenter's Tools"
             ],
             "languages": [],
@@ -161,7 +155,6 @@
         {
             "name": "Milkman",
             "skills": [
-                "Animal Handling",
                 "Animal Handling"
             ],
             "tools": [],
@@ -178,7 +171,6 @@
         {
             "name": "Executioner",
             "skills": [
-                "Intimidation",
                 "Intimidation"
             ],
             "tools": [],
@@ -199,24 +191,23 @@
             "languages": [],
             "abilityScore": "STR",
             "startingWeapon": "Short Sword",
-            "weaponTypeProficiency": "Shortswords",
+            "weaponTypeProficiency": "Simple Weapons",
             "coin": "d12 sp",
-            "bonusItem": "Leather armor",
-            "clothes": "Common",
+            "bonusItem": "Shield",
+            "clothes": "Leather Armor, Common",
             "savingThrowProficiency": "",
-            "armorProficiency": "Simple Weapons"
+            "armorProficiency": "Light Armor"
         },
         {
             "name": "Bone Carver",
             "skills": [],
             "tools": [
-                "Woodcarver's Tools",
                 "Woodcarver's Tools"
             ],
             "languages": [],
             "abilityScore": "STR",
             "startingWeapon": "Bone Knife (Dagger)",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d6 sp",
             "bonusItem": "3 large animal bones",
             "clothes": "Common",
@@ -227,7 +218,6 @@
             "name": "Mason",
             "skills": [],
             "tools": [
-                "Mason's Tools",
                 "Mason's Tools"
             ],
             "languages": [],
@@ -247,12 +237,12 @@
             "languages": [],
             "abilityScore": "STR",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d8 sp",
             "bonusItem": "Grinding stone",
             "clothes": "Common",
             "savingThrowProficiency": "",
-            "armorProficiency": "Daggers"
+            "armorProficiency": ""
         },
         {
             "name": "Plattner",
@@ -261,17 +251,16 @@
             "languages": [],
             "abilityScore": "STR",
             "startingWeapon": "Maul",
-            "weaponTypeProficiency": "",
+            "weaponTypeProficiency": "Club",
             "coin": "d8 sp",
             "bonusItem": "Sheet of metal",
             "clothes": "Common",
             "savingThrowProficiency": "",
-            "armorProficiency": "Mauls"
+            "armorProficiency": ""
         },
         {
             "name": "Porter",
             "skills": [
-                "Perception",
                 "Perception"
             ],
             "tools": [],
@@ -288,7 +277,6 @@
         {
             "name": "Jailer",
             "skills": [
-                "Investigation",
                 "Investigation"
             ],
             "tools": [],
@@ -298,9 +286,9 @@
             "weaponTypeProficiency": "",
             "coin": "d4 sp",
             "bonusItem": "A set of keys",
-            "clothes": "Common",
+            "clothes": "Leather Armor, Common",
             "savingThrowProficiency": "",
-            "armorProficiency": ""
+            "armorProficiency": "Light Armor"
         },
         {
             "name": "Wagoner",
@@ -322,14 +310,13 @@
         {
             "name": "Pickpocket",
             "skills": [
-                "Sleight of Hand",
                 "Sleight of Hand"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "DEX",
             "startingWeapon": "Shortsword",
-            "weaponTypeProficiency": "Shortswords",
+            "weaponTypeProficiency": "Dagger",
             "coin": "d12 sp",
             "bonusItem": "Thieves' tools",
             "clothes": "Common",
@@ -339,14 +326,13 @@
         {
             "name": "Haberdasher",
             "skills": [
-                "Persuasion",
                 "Persuasion"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "DEX",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d12 gp",
             "bonusItem": "3 yards fine cloth",
             "clothes": "Fine",
@@ -356,7 +342,6 @@
         {
             "name": "Orphan",
             "skills": [
-                "Stealth",
                 "Stealth"
             ],
             "tools": [],
@@ -373,7 +358,6 @@
         {
             "name": "Circus Acrobat",
             "skills": [
-                "Acrobatics",
                 "Acrobatics"
             ],
             "tools": [],
@@ -391,7 +375,6 @@
             "name": "Glassblower",
             "skills": [],
             "tools": [
-                "Glassblower's Tools",
                 "Glassblower's Tools"
             ],
             "languages": [],
@@ -407,7 +390,6 @@
         {
             "name": "Messenger",
             "skills": [
-                "Persuasion",
                 "Persuasion"
             ],
             "tools": [],
@@ -425,13 +407,12 @@
             "name": "Locksmith",
             "skills": [],
             "tools": [
-                "Thieves' Tools",
                 "Thieves' Tools"
             ],
             "languages": [],
             "abilityScore": "DEX",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d10 gp",
             "bonusItem": "Lock",
             "clothes": "Common",
@@ -442,13 +423,12 @@
             "name": "Weaver",
             "skills": [],
             "tools": [
-                "Weaver's Tools",
                 "Weaver's Tools"
             ],
             "languages": [],
             "abilityScore": "DEX",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d12 sp",
             "bonusItem": "Weaver's tools",
             "clothes": "Common",
@@ -458,7 +438,6 @@
         {
             "name": "Hunter",
             "skills": [
-                "Nature",
                 "Nature"
             ],
             "tools": [],
@@ -468,14 +447,13 @@
             "weaponTypeProficiency": "",
             "coin": "d10 sp",
             "bonusItem": "Deer skin",
-            "clothes": "Common",
+            "clothes": "Leather Armor, Common",
             "savingThrowProficiency": "",
-            "armorProficiency": ""
+            "armorProficiency": "Light Armor"
         },
         {
             "name": "Contortionist",
             "skills": [
-                "Performance",
                 "Performance"
             ],
             "tools": [],
@@ -493,7 +471,6 @@
             "name": "Potter",
             "skills": [],
             "tools": [
-                "Potter's Tools",
                 "Potter's Tools"
             ],
             "languages": [],
@@ -509,31 +486,29 @@
         {
             "name": "Bandit",
             "skills": [
-                "Stealth",
                 "Stealth"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "DEX",
             "startingWeapon": "Shortsword",
-            "weaponTypeProficiency": "Shortswords",
+            "weaponTypeProficiency": "Simple Weapons",
             "coin": "d6 gp",
             "bonusItem": "Caltrops (10)",
-            "clothes": "Traveler's",
+            "clothes": "Leather Armor, Traveler's",
             "savingThrowProficiency": "",
-            "armorProficiency": ""
+            "armorProficiency": "Light Armor"
         },
         {
             "name": "Basketweaver",
             "skills": [],
             "tools": [
-                "Weaver's Tools",
                 "Weaver's Tools"
             ],
             "languages": [],
             "abilityScore": "DEX",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d4 cp",
             "bonusItem": "Weaver's tools",
             "clothes": "Common",
@@ -544,13 +519,12 @@
             "name": "Bookbinder",
             "skills": [],
             "tools": [
-                "Calligrapher's Supplies",
                 "Calligrapher's Supplies"
             ],
             "languages": [],
             "abilityScore": "DEX",
             "startingWeapon": "Knife (Dagger)",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d6 sp",
             "bonusItem": "Spool of thread",
             "clothes": "Common",
@@ -564,25 +538,23 @@
             "languages": [],
             "abilityScore": "DEX",
             "startingWeapon": "Short bow",
-            "weaponTypeProficiency": "",
+            "weaponTypeProficiency": "Bow, Crossbow",
             "coin": "d8 sp",
             "bonusItem": "A quiver of arrows (30)",
             "clothes": "Common",
             "savingThrowProficiency": "",
-            "armorProficiency": "Bows"
+            "armorProficiency": ""
         },
         {
             "name": "Gilder",
-            "skills": [
-                "Jeweler's tools"
-            ],
+            "skills": [],
             "tools": [
                 "Jeweler's Tools"
             ],
             "languages": [],
             "abilityScore": "DEX",
             "startingWeapon": "Knife (Dagger)",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d4 gp",
             "bonusItem": "Smelting pot",
             "clothes": "Fine",
@@ -591,9 +563,7 @@
         },
         {
             "name": "Miniaturist",
-            "skills": [
-                "Painter's supplies"
-            ],
+            "skills": [],
             "tools": [
                 "Painter's Supplies"
             ],
@@ -614,24 +584,23 @@
             "languages": [],
             "abilityScore": "DEX",
             "startingWeapon": "Butcher Knife (Handaxe)",
-            "weaponTypeProficiency": "Handaxes",
+            "weaponTypeProficiency": "",
             "coin": "d6 cp",
             "bonusItem": "A chicken carcass",
             "clothes": "Common",
             "savingThrowProficiency": "",
-            "armorProficiency": "Handaxes"
+            "armorProficiency": ""
         },
         {
             "name": "Glovemaker",
             "skills": [],
             "tools": [
-                "Leatherworker's Tools",
                 "Leatherworker's Tools"
             ],
             "languages": [],
             "abilityScore": "DEX",
             "startingWeapon": "Knife (Dagger)",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d8 sp",
             "bonusItem": "A pair of fine leather gloves",
             "clothes": "Common",
@@ -642,13 +611,12 @@
             "name": "Jeweler",
             "skills": [],
             "tools": [
-                "Jeweler's Tools",
                 "Jeweler's Tools"
             ],
             "languages": [],
             "abilityScore": "DEX",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d4 gp",
             "bonusItem": "Jeweler's Tools",
             "clothes": "Fine",
@@ -672,7 +640,6 @@
         {
             "name": "Pig Farmer",
             "skills": [
-                "Animal Handling",
                 "Animal Handling"
             ],
             "tools": [],
@@ -690,13 +657,12 @@
             "name": "Leatherworker",
             "skills": [],
             "tools": [
-                "Leatherworker's Tools",
                 "Leatherworker's Tools"
             ],
             "languages": [],
             "abilityScore": "CON",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d6 gp",
             "bonusItem": "Leatherworker's tools",
             "clothes": "Common",
@@ -706,7 +672,6 @@
         {
             "name": "Rat Catcher",
             "skills": [
-                "Animal Handling",
                 "Animal Handling"
             ],
             "tools": [],
@@ -730,7 +695,7 @@
             "languages": [],
             "abilityScore": "CON",
             "startingWeapon": "Shortsword",
-            "weaponTypeProficiency": "Shortswords",
+            "weaponTypeProficiency": "",
             "coin": "d8 sp",
             "bonusItem": "50' Rope",
             "clothes": "Traveler's",
@@ -741,7 +706,6 @@
             "name": "Tavern Cook",
             "skills": [],
             "tools": [
-                "Cook's Utensils",
                 "Cook's Utensils"
             ],
             "languages": [],
@@ -758,7 +722,6 @@
             "name": "Brewer",
             "skills": [],
             "tools": [
-                "Brewer's Supplies",
                 "Brewer's Supplies"
             ],
             "languages": [],
@@ -774,14 +737,13 @@
         {
             "name": "Chandler",
             "skills": [
-                "Investigation",
                 "Investigation"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "CON",
             "startingWeapon": "Scissors (Dagger)",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d10 sp",
             "bonusItem": "Fine candles (10)",
             "clothes": "Common",
@@ -791,7 +753,6 @@
         {
             "name": "Apiarist",
             "skills": [
-                "Animal Handling",
                 "Animal Handling"
             ],
             "tools": [],
@@ -800,22 +761,21 @@
             "startingWeapon": "Quarterstaff",
             "weaponTypeProficiency": "",
             "coin": "d6 gp",
-            "bonusItem": "Padded armor",
-            "clothes": "Common",
+            "bonusItem": "",
+            "clothes": "Padded Armor, Common",
             "savingThrowProficiency": "",
-            "armorProficiency": ""
+            "armorProficiency": "Light Armor"
         },
         {
             "name": "Stone Carver",
             "skills": [
-                "Performance",
                 "Performance"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "CON",
             "startingWeapon": "Chisel (Dagger)",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d6 sp",
             "bonusItem": "1 carved bust",
             "clothes": "Common",
@@ -825,13 +785,12 @@
         {
             "name": "Undertaker",
             "skills": [
-                "Insight",
                 "Insight"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "CON",
-            "startingWeapon": "Light hammer",
+            "startingWeapon": "Light Hammer",
             "weaponTypeProficiency": "",
             "coin": "d8 sp",
             "bonusItem": "Bouquet of dried flowers",
@@ -842,7 +801,6 @@
         {
             "name": "Grave Digger",
             "skills": [
-                "Athletics",
                 "Athletics"
             ],
             "tools": [],
@@ -858,9 +816,7 @@
         },
         {
             "name": "Chestmaker",
-            "skills": [
-                "Woodcarver's tools"
-            ],
+            "skills": [],
             "tools": [
                 "Woodcarver's Tools"
             ],
@@ -876,9 +832,7 @@
         },
         {
             "name": "Broom maker",
-            "skills": [
-                "Woodcarver's tools"
-            ],
+            "skills": [],
             "tools": [
                 "Woodcarver's Tools"
             ],
@@ -899,24 +853,23 @@
             "languages": [],
             "abilityScore": "CON",
             "startingWeapon": "Shears (Shortsword)",
-            "weaponTypeProficiency": "Shortswords",
+            "weaponTypeProficiency": "",
             "coin": "d10 sp",
             "bonusItem": "Sheepskin",
             "clothes": "Common",
             "savingThrowProficiency": "",
-            "armorProficiency": "Short sword"
+            "armorProficiency": ""
         },
         {
             "name": "Parchmenter",
             "skills": [
-                "Investigation",
                 "Investigation"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "CON",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d6 sp",
             "bonusItem": "Parchment (3 sheets)",
             "clothes": "Common",
@@ -925,15 +878,13 @@
         },
         {
             "name": "Smelter",
-            "skills": [
-                "Tinkerer's tools"
-            ],
+            "skills": [],
             "tools": [
-                "Tinker's Tools"
+                "Tinkerer's tools"
             ],
             "languages": [],
             "abilityScore": "CON",
-            "startingWeapon": "Light hammer",
+            "startingWeapon": "Light Hammer",
             "weaponTypeProficiency": "",
             "coin": "d8 sp",
             "bonusItem": "Iron ingot",
@@ -943,15 +894,13 @@
         },
         {
             "name": "Cooper",
-            "skills": [
-                "Carpenter's tools"
-            ],
+            "skills": [],
             "tools": [
                 "Carpenter's Tools"
             ],
             "languages": [],
             "abilityScore": "CON",
-            "startingWeapon": "Light hammer",
+            "startingWeapon": "Light Hammer",
             "weaponTypeProficiency": "",
             "coin": "d8 cp",
             "bonusItem": "Wooden plank",
@@ -962,14 +911,13 @@
         {
             "name": "Haenyeo",
             "skills": [
-                "Athletics",
                 "Athletics"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "CON",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d6 sp",
             "bonusItem": "A bushel of oysters",
             "clothes": "Common",
@@ -978,15 +926,13 @@
         },
         {
             "name": "Roofer",
-            "skills": [
-                "Carpenter's tools"
-            ],
+            "skills": [],
             "tools": [
                 "Carpenter's Tools"
             ],
             "languages": [],
             "abilityScore": "CON",
-            "startingWeapon": "Light hammer",
+            "startingWeapon": "Light Hammer",
             "weaponTypeProficiency": "",
             "coin": "d12 cp",
             "bonusItem": "Carpenter's tools",
@@ -997,14 +943,13 @@
         {
             "name": "Bookkeeper",
             "skills": [
-                "Investigation",
                 "Investigation"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d8 sp",
             "bonusItem": "Abacus",
             "clothes": "Common",
@@ -1014,7 +959,6 @@
         {
             "name": "Tax Collector",
             "skills": [
-                "Intimidation",
                 "Intimidation"
             ],
             "tools": [],
@@ -1031,13 +975,13 @@
         {
             "name": "Wizard's Apprentice",
             "skills": [
-                "Arcana",
                 "Arcana"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Quarterstaff",
+            "startingSpell": "Arcane Bolt",
             "weaponTypeProficiency": "",
             "coin": "d10 sp",
             "bonusItem": "Book on arcane subject",
@@ -1048,13 +992,13 @@
         {
             "name": "Apothecary",
             "skills": [
-                "Medicine",
                 "Medicine"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Sickle",
+            "startingSpell": "Spark Bolt",
             "weaponTypeProficiency": "",
             "coin": "d8 sp",
             "bonusItem": "Healer's kit",
@@ -1066,15 +1010,15 @@
             "name": "Tinker",
             "skills": [],
             "tools": [
-                "Tinker's Tools",
-                "Tinker's Tools"
+                "Tinkerer's tools"
             ],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Hand Crossbow",
-            "weaponTypeProficiency": "Bows",
+            "startingSpell": "Telekinetic Throw",
+            "weaponTypeProficiency": "Shortbow, Crossbow",
             "coin": "d6 sp",
-            "bonusItem": "Tinker's tools",
+            "bonusItem": "Tinkerer's tools",
             "clothes": "Common",
             "savingThrowProficiency": "",
             "armorProficiency": ""
@@ -1082,7 +1026,6 @@
         {
             "name": "Tutor",
             "skills": [
-                "History",
                 "History"
             ],
             "tools": [],
@@ -1100,13 +1043,13 @@
             "name": "Navigator",
             "skills": [],
             "tools": [
-                "Navigator's Tools",
                 "Navigator's Tools"
             ],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Shortsword",
-            "weaponTypeProficiency": "Shortswords",
+            "startingSpell": "Arcane Bolt",
+            "weaponTypeProficiency": "",
             "coin": "d6 gp",
             "bonusItem": "Navigator's tools",
             "clothes": "Traveler's",
@@ -1115,9 +1058,7 @@
         },
         {
             "name": "Pastry Cook",
-            "skills": [
-                "Cook's utensils"
-            ],
+            "skills": [],
             "tools": [
                 "Cook's Utensils"
             ],
@@ -1135,12 +1076,12 @@
             "name": "Cartographer",
             "skills": [],
             "tools": [
-                "Cartographer's Tools",
                 "Cartographer's Tools"
             ],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Compass (dagger)",
+            "startingSpell": "Arcane Bolt",
             "weaponTypeProficiency": "",
             "coin": "d10 sp",
             "bonusItem": "Cartographer's tools",
@@ -1169,13 +1110,12 @@
             "name": "Scrivener",
             "skills": [],
             "tools": [
-                "Calligrapher's Supplies",
                 "Calligrapher's Supplies"
             ],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d8 sp",
             "bonusItem": "Calligrapher's supplies",
             "clothes": "Common",
@@ -1185,7 +1125,6 @@
         {
             "name": "Banker",
             "skills": [
-                "Insight",
                 "Insight"
             ],
             "tools": [],
@@ -1202,7 +1141,6 @@
         {
             "name": "Barrister",
             "skills": [
-                "Persuasion",
                 "Persuasion"
             ],
             "tools": [],
@@ -1218,16 +1156,15 @@
         },
         {
             "name": "Clockmaker",
-            "skills": [
-                "Tinker's tools"
-            ],
+            "skills": [],
             "tools": [
-                "Tinker's Tools"
+                "Tinkerer's tools"
             ],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "startingSpell": "Telekinetic Throw",
+            "weaponTypeProficiency": "",
             "coin": "d6 gp",
             "bonusItem": "A small clock",
             "clothes": "Common",
@@ -1236,15 +1173,14 @@
         },
         {
             "name": "Lampwright",
-            "skills": [
-                "Glassblower's tools"
-            ],
+            "skills": [],
             "tools": [
                 "Glassblower's Tools"
             ],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Quarterstaff",
+            "startingSpell": "Spark Bolt",
             "weaponTypeProficiency": "",
             "coin": "d10 sp",
             "bonusItem": "Lantern",
@@ -1254,15 +1190,14 @@
         },
         {
             "name": "Lensgrinder",
-            "skills": [
-                "Tinker's tools"
-            ],
+            "skills": [],
             "tools": [
-                "Tinker's Tools"
+                "Tinkerer's tools"
             ],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Sickle",
+            "startingSpell": "Telekinetic Throw",
             "weaponTypeProficiency": "",
             "coin": "d6 sp",
             "bonusItem": "Magnifying glass",
@@ -1272,16 +1207,14 @@
         },
         {
             "name": "Portraitist",
-            "skills": [
-                "Painter's supplies"
-            ],
+            "skills": [],
             "tools": [
                 "Painter's Supplies"
             ],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d12 sp",
             "bonusItem": "Painter's supplies",
             "clothes": "Common",
@@ -1291,13 +1224,13 @@
         {
             "name": "Herald",
             "skills": [
-                "Performance",
                 "Performance"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Quarterstaff",
+            "startingSpell": "Arcane Bolt",
             "weaponTypeProficiency": "",
             "coin": "d10 sp",
             "bonusItem": "Speaking trumpet",
@@ -1308,13 +1241,13 @@
         {
             "name": "Astronomer",
             "skills": [
-                "History",
                 "History"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Quarterstaff",
+            "startingSpell": "Arcane Bolt",
             "weaponTypeProficiency": "",
             "coin": "d8 cp",
             "bonusItem": "Wheel Chart",
@@ -1325,14 +1258,14 @@
         {
             "name": "Knifeman",
             "skills": [
-                "Medicine",
                 "Medicine"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "INT",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "startingSpell": "Spark Bolt",
+            "weaponTypeProficiency": "Shortsword",
             "coin": "d12 gp",
             "bonusItem": "Jar of leeches",
             "clothes": "Fine",
@@ -1342,13 +1275,13 @@
         {
             "name": "Herbalist",
             "skills": [
-                "Medicine",
                 "Medicine"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Club",
+            "startingSpell": "Thorn Lash",
             "weaponTypeProficiency": "",
             "coin": "d12 sp",
             "bonusItem": "Healer's kit",
@@ -1359,13 +1292,13 @@
         {
             "name": "Sexton",
             "skills": [
-                "Religion",
                 "Religion"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Mace",
+            "startingSpell": "Dealthy Chill",
             "weaponTypeProficiency": "",
             "coin": "d12 gp",
             "bonusItem": "Holy symbol (emblem)",
@@ -1376,30 +1309,30 @@
         {
             "name": "Squire",
             "skills": [
-                "History",
                 "History"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Longsword",
+            "startingSpell": "Dealthy Chill",
             "weaponTypeProficiency": "",
             "coin": "d6 sp",
             "bonusItem": "Shield",
-            "clothes": "Fine",
+            "clothes": "Leather Armor, Fine",
             "savingThrowProficiency": "",
-            "armorProficiency": ""
+            "armorProficiency": "Light Armor, Shields"
         },
         {
             "name": "Friar",
             "skills": [
-                "Religion",
                 "Religion"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Quarterstaff",
+            "startingSpell": "Dealthy Chill",
             "weaponTypeProficiency": "",
             "coin": "d8 sp",
             "bonusItem": "Holy Symbol (reliquary)",
@@ -1410,49 +1343,47 @@
         {
             "name": "Woodward",
             "skills": [
-                "Nature",
                 "Nature"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Quarterstaff",
+            "startingSpell": "Spirit Stone",
             "weaponTypeProficiency": "",
             "coin": "d8 sp",
             "bonusItem": "Druidic focus (totem)",
-            "clothes": "Common",
+            "clothes": "Leather Armor, Common",
             "savingThrowProficiency": "",
-            "armorProficiency": ""
+            "armorProficiency": "Light Armor"
         },
         {
             "name": "Tracker",
             "skills": [
-                "Survival",
                 "Survival"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Shortsword",
-            "weaponTypeProficiency": "Shortswords",
+            "startingSpell": "Spirit Stone",
+            "weaponTypeProficiency": "",
             "coin": "d8 sp",
-            "bonusItem": "Hide armor",
-            "clothes": "Common",
+            "bonusItem": "",
+            "clothes": "Hide Armor, Common",
             "savingThrowProficiency": "",
-            "armorProficiency": ""
+            "armorProficiency": "Medium Armor"
         },
         {
             "name": "Painter",
-            "skills": [
-                "Painter's supplies"
-            ],
+            "skills": [],
             "tools": [
                 "Painter's Supplies"
             ],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d8 cp",
             "bonusItem": "Painter's supplies",
             "clothes": "Common",
@@ -1462,7 +1393,6 @@
         {
             "name": "Ostler",
             "skills": [
-                "Animal Handling",
                 "Animal Handling"
             ],
             "tools": [],
@@ -1480,7 +1410,6 @@
             "name": "Baker",
             "skills": [],
             "tools": [
-                "Cook's Utensils",
                 "Cook's Utensils"
             ],
             "languages": [],
@@ -1496,7 +1425,6 @@
         {
             "name": "Servant",
             "skills": [
-                "Perception",
                 "Perception"
             ],
             "tools": [],
@@ -1513,30 +1441,30 @@
         {
             "name": "Trapper",
             "skills": [
-                "Survival",
                 "Survival"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Light Crossbow (20 Bolts)",
-            "weaponTypeProficiency": "Bows",
+            "startingSpell": "Spirit Stone",
+            "weaponTypeProficiency": "Simple Weapons",
             "coin": "d12 sp",
             "bonusItem": "Hunting trap",
-            "clothes": "Common",
+            "clothes": "Leather Armor, Common",
             "savingThrowProficiency": "",
-            "armorProficiency": ""
+            "armorProficiency": "Light Armor"
         },
         {
             "name": "Beadle",
             "skills": [
-                "Religion",
                 "Religion"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Quarterstaff (with religious ornament)",
+            "startingSpell": "Dealthy Chill",
             "weaponTypeProficiency": "",
             "coin": "d12 ep",
             "bonusItem": "Holy Symbol",
@@ -1546,9 +1474,7 @@
         },
         {
             "name": "Cheesemaker",
-            "skills": [
-                "Cook's utensils"
-            ],
+            "skills": [],
             "tools": [
                 "Cook's Utensils"
             ],
@@ -1569,24 +1495,24 @@
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Longbow (10 arrows)",
-            "weaponTypeProficiency": "",
+            "startingSpell": "Thorn Lash",
+            "weaponTypeProficiency": "Bow, Crossbow",
             "coin": "d10 sp",
             "bonusItem": "A bundle of 5 bow staves",
             "clothes": "Common",
             "savingThrowProficiency": "",
-            "armorProficiency": "Bows and Crossbows"
+            "armorProficiency": ""
         },
         {
             "name": "Cobbler",
             "skills": [],
             "tools": [
-                "Cobbler's Tools",
                 "Cobbler's Tools"
             ],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d12 ep",
             "bonusItem": "Cobbler's tools",
             "clothes": "Common",
@@ -1596,13 +1522,13 @@
         {
             "name": "Furrier",
             "skills": [
-                "Survival",
                 "Survival"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Longbow (10 arrows)",
+            "startingSpell": "Thorn Lash",
             "weaponTypeProficiency": "",
             "coin": "d10 sp",
             "bonusItem": "A badger fur",
@@ -1613,7 +1539,6 @@
         {
             "name": "Watchman",
             "skills": [
-                "Perception",
                 "Perception"
             ],
             "tools": [],
@@ -1622,21 +1547,21 @@
             "startingWeapon": "Spear",
             "weaponTypeProficiency": "",
             "coin": "d6 sp",
-            "bonusItem": "Leather Armor",
-            "clothes": "Common",
+            "bonusItem": "",
+            "clothes": "Leather Armor, Common",
             "savingThrowProficiency": "",
-            "armorProficiency": ""
+            "armorProficiency": "Light Armor"
         },
         {
             "name": "Midwife",
             "skills": [
-                "Medicine",
                 "Medicine"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Club",
+            "startingSpell": "Dealthy Chill",
             "weaponTypeProficiency": "",
             "coin": "d8 cp",
             "bonusItem": "Bucket",
@@ -1647,30 +1572,30 @@
         {
             "name": "Falconer",
             "skills": [
-                "Animal Handling",
                 "Animal Handling"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Shortbow (10 arrows)",
+            "startingSpell": "Spirit Stone",
             "weaponTypeProficiency": "",
             "coin": "d12 cp",
             "bonusItem": "Bird bait",
-            "clothes": "Common",
+            "clothes": "Leather Armor, Common",
             "savingThrowProficiency": "",
-            "armorProficiency": ""
+            "armorProficiency": "Light Armor"
         },
         {
             "name": "Shaman",
             "skills": [
-                "Nature",
                 "Nature"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "WIS",
             "startingWeapon": "Spear",
+            "startingSpell": "Thorn Lash",
             "weaponTypeProficiency": "",
             "coin": "d8 cp",
             "bonusItem": "Druidic Focus (Totem)",
@@ -1681,7 +1606,6 @@
         {
             "name": "Barker",
             "skills": [
-                "Perception",
                 "Perception"
             ],
             "tools": [],
@@ -1704,12 +1628,13 @@
             "languages": [],
             "abilityScore": "CHA",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "startingSpell": "Dazzling Flare",
+            "weaponTypeProficiency": "",
             "coin": "d10 gp",
-            "bonusItem": "A lute",
+            "bonusItem": "Lute",
             "clothes": "Costume",
             "savingThrowProficiency": "",
-            "armorProficiency": "Lute"
+            "armorProficiency": ""
         },
         {
             "name": "Alewife",
@@ -1728,7 +1653,6 @@
         {
             "name": "Low Noble",
             "skills": [
-                "Deception",
                 "Deception"
             ],
             "tools": [],
@@ -1745,7 +1669,6 @@
         {
             "name": "Costermonger",
             "skills": [
-                "Persuasion",
                 "Persuasion"
             ],
             "tools": [],
@@ -1762,14 +1685,13 @@
         {
             "name": "Fishmonger",
             "skills": [
-                "Perception",
                 "Perception"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "CHA",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d6 sp",
             "bonusItem": "Fishing tackle",
             "clothes": "Common",
@@ -1779,13 +1701,13 @@
         {
             "name": "Mime",
             "skills": [
-                "Performance",
                 "Performance"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "CHA",
             "startingWeapon": "Club",
+            "startingSpell": "Dazzling Flare",
             "weaponTypeProficiency": "",
             "coin": "d10 gp",
             "bonusItem": "Disguise kit",
@@ -1796,14 +1718,14 @@
         {
             "name": "Storyteller",
             "skills": [
-                "Performance",
                 "Performance"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "CHA",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "startingSpell": "Cutting Remark",
+            "weaponTypeProficiency": "",
             "coin": "d12 sp",
             "bonusItem": "Journal & pen",
             "clothes": "Costume",
@@ -1813,7 +1735,6 @@
         {
             "name": "Diplomat",
             "skills": [
-                "Insight",
                 "Insight"
             ],
             "tools": [],
@@ -1830,7 +1751,6 @@
         {
             "name": "Peddlar",
             "skills": [
-                "Persuasion",
                 "Persuasion"
             ],
             "tools": [],
@@ -1847,14 +1767,14 @@
         {
             "name": "Fortune-Teller",
             "skills": [
-                "Performance",
                 "Performance"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "CHA",
             "startingWeapon": "Ornate Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "startingSpell": "Cutting Remark",
+            "weaponTypeProficiency": "",
             "coin": "d6 sp",
             "bonusItem": "Crystal ball",
             "clothes": "Costume",
@@ -1870,18 +1790,17 @@
             "languages": [],
             "abilityScore": "CHA",
             "startingWeapon": "Short Sword",
-            "weaponTypeProficiency": "Shortswords",
+            "startingSpell": "Dazzling Flare",
+            "weaponTypeProficiency": "",
             "coin": "d8 sp",
             "bonusItem": "Drum",
             "clothes": "Traveler's",
             "savingThrowProficiency": "",
-            "armorProficiency": "Drum"
+            "armorProficiency": ""
         },
         {
             "name": "Confectioner",
-            "skills": [
-                "Cook's utensils"
-            ],
+            "skills": [],
             "tools": [
                 "Cook's Utensils"
             ],
@@ -1897,16 +1816,14 @@
         },
         {
             "name": "Milliner",
-            "skills": [
-                "Weaver's tools"
-            ],
+            "skills": [],
             "tools": [
                 "Weaver's Tools"
             ],
             "languages": [],
             "abilityScore": "CHA",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d8 sp",
             "bonusItem": "Weaver's tools",
             "clothes": "Fine",
@@ -1916,7 +1833,6 @@
         {
             "name": "Barber",
             "skills": [
-                "Medicine",
                 "Medicine"
             ],
             "tools": [],
@@ -1939,23 +1855,24 @@
             "languages": [],
             "abilityScore": "CHA",
             "startingWeapon": "Hand Crossbow",
-            "weaponTypeProficiency": "Bows",
+            "startingSpell": "Dazzling Flare",
+            "weaponTypeProficiency": "",
             "coin": "d6 cp",
             "bonusItem": "Playing card set",
             "clothes": "Traveler's",
             "savingThrowProficiency": "",
-            "armorProficiency": "Playing card set"
+            "armorProficiency": ""
         },
         {
             "name": "Poet",
             "skills": [
-                "Insight",
                 "Insight"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "CHA",
             "startingWeapon": "Quill (dagger)",
+            "startingSpell": "Cutting Remark",
             "weaponTypeProficiency": "",
             "coin": "d6 cp",
             "bonusItem": "1 Parchment",
@@ -1966,13 +1883,13 @@
         {
             "name": "Singer",
             "skills": [
-                "Performance",
                 "Performance"
             ],
             "tools": [],
             "languages": [],
             "abilityScore": "CHA",
             "startingWeapon": "Quarterstaff",
+            "startingSpell": "Dazzling Flare",
             "weaponTypeProficiency": "",
             "coin": "d6 cp",
             "bonusItem": "Song Booklet",
@@ -1984,13 +1901,12 @@
             "name": "Forger",
             "skills": [],
             "tools": [
-                "Forgery Kit",
                 "Forgery Kit"
             ],
             "languages": [],
             "abilityScore": "CHA",
             "startingWeapon": "Dagger",
-            "weaponTypeProficiency": "Daggers",
+            "weaponTypeProficiency": "",
             "coin": "d10 sp",
             "bonusItem": "Forgery kit",
             "clothes": "Common",
@@ -2001,13 +1917,13 @@
             "name": "Conman",
             "skills": [],
             "tools": [
-                "Disguise Kit",
                 "Disguise Kit"
             ],
             "languages": [],
             "abilityScore": "CHA",
             "startingWeapon": "Shortsword",
-            "weaponTypeProficiency": "Shortswords",
+            "startingSpell": "Cutting Remark",
+            "weaponTypeProficiency": "Dagger",
             "coin": "d6 gp",
             "bonusItem": "Disguise Kit",
             "clothes": "Fine",
