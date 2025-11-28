@@ -56,9 +56,9 @@
             "weaponTypeProficiency": "Simple Weapons",
             "coin": "d10 gp",
             "bonusItem": "Shield",
-            "clothes": "Chain Mail, Traveler's",
+            "clothes": "Chain Shirt, Traveler's",
             "savingThrowProficiency": "",
-            "armorProficiency": "Heavy Armor, Shields"
+            "armorProficiency": "Medium Armor, Shields"
         },
         {
             "name": "Plowman",
@@ -116,7 +116,7 @@
             "weaponTypeProficiency": "Simple Weapons, Martial Weapons",
             "coin": "d12 gp",
             "bonusItem": "",
-            "clothes": "Chain shirt, Traveler's",
+            "clothes": "Chain Shirt, Traveler's",
             "savingThrowProficiency": "STR",
             "armorProficiency": "Medium Armor, Shields"
         },

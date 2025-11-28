@@ -1,0 +1,86 @@
+{
+    "Padded": {
+        "glossary_header": "AC 11 + Dex. Light Armor",
+        "glossary_body": "Padded armor consists of quilted layers of cloth and batting."
+    },
+    "Padded Armor": {
+        "glossary_header": "AC 11 + Dex. Light Armor",
+        "glossary_body": "Padded armor consists of quilted layers of cloth and batting."
+    },
+    "Leather": {
+        "glossary_header": "AC 11 + Dex. Light Armor",
+        "glossary_body": "The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials."
+    },
+    "Leather Armor": {
+        "glossary_header": "AC 11 + Dex. Light Armor",
+        "glossary_body": "The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials."
+    },
+    "Studded Leather": {
+        "glossary_header": "AC 12 + Dex. Light Armor",
+        "glossary_body": "Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes."
+    },
+    "Hide": {
+        "glossary_header": "AC 12 + Dex. Light Armor",
+        "glossary_body": "This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor."
+    },
+    "Hide Armor": {
+        "glossary_header": "AC 12 + Dex. Light Armor",
+        "glossary_body": "This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor."
+    },
+    "Chain Shirt": {
+        "glossary_header": "AC: 13 + Dex modifier (max 2). Medium Armor",
+        "glossary_body": "Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers."
+    },
+    "Scale Mail": {
+        "glossary_header": "AC 14 + Dex modifier (max 2). Medium Armor",
+        "glossary_body": "Disadvantage on Stealth (Dex) checks. This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets."
+    },
+    "Breastplate": {
+        "glossary_header": "AC 14 + Dex modifier (max 2). Medium Armor",
+        "glossary_body": "This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered."
+    },
+    "Halfplate": {
+        "glossary_header": "AC 15 + Dex modifier (max 2). Medium Armor",
+        "glossary_body": "Disadvantage on Stealth (Dex) checks. Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps."
+    },
+    "Ring Mail": {
+        "glossary_header": "AC 14. Heavy Armor",
+        "glossary_body": "Disadvantage on Stealth (Dex) checks. This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor."
+    },
+    "Chain Mail": {
+        "glossary_header": "AC 16. Requires Strength 13. Heavy Armor",
+        "glossary_body": "Disadvantage on Stealth (Dex) checks. Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets."
+    },
+    "Splint": {
+        "glossary_header": "AC 17. Requires Strength 15. Heavy Armor",
+        "glossary_body": "Disadvantage on Stealth (Dex) checks. This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints."
+    },
+    "Plate": {
+        "glossary_header": "AC 18. Requires Strength 15. Heavy Armor",
+        "glossary_body": "Disadvantage on Stealth (Dex) checks. Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body."
+    },
+    "Shield": {
+        "glossary_header": "AC +2.",
+        "glossary_body": "A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time."
+    },
+    "Common": {
+        "glossary_header": "No AC bonus.",
+        "glossary_body": "This set of clothes could consist of a loose shirt and baggy breeches, or a loose shirt and skirt or overdress. Cloth wrappings are used for shoes."
+    },
+    "Fine": {
+        "glossary_header": "No AC bonus.",
+        "glossary_body": "This set of clothes is designed specifically to be expensive and to show it, including fancy, tailored clothes in whatever fashion happens to be the current style in the courts of the nobles. Precious metals and gems could be worked into the clothing."
+    },
+    "Traveler's": {
+        "glossary_header": "No AC bonus.",
+        "glossary_body": "This set of clothes could consist of boots, a wool skirt or breeches, a sturdy belt, a shirt (perhaps with a vest or jacket), and an ample cloak with a hood."
+    },
+    "Costume": {
+        "glossary_header": "No AC bonus.",
+        "glossary_body": "This set of clothes is fashioned after a particular costume, typically meant for entertaining."
+    },
+    "Vestments": {
+        "glossary_header": "No AC bonus.",
+        "glossary_body": "This set of clothes is made of special fabric and is often used by priests and other holy figures."
+    }
+}

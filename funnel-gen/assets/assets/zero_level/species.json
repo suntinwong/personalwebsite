@@ -227,7 +227,6 @@
             },
             "traits": [
                 "Darkvision",
-                "Keen Senses",
                 "Fey Ancestry",
                 "Trance"
             ],
@@ -268,7 +267,6 @@
             },
             "traits": [
                 "Darkvision",
-                "Menacing",
                 "Relentless Endurance",
                 "Savage Attacks"
             ],
@@ -304,7 +302,8 @@
             },
             "traits": [
                 "Draconic Ancestry",
-                "Damage Resistance"
+                "Damage Resistance",
+                "Breath Weapon"
             ],
             "skillProficiencies": {
                 "fixed": [],

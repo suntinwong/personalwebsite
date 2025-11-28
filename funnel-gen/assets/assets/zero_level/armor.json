@@ -6,8 +6,7 @@
             "maxDex": 100,
             "category": "light",
             "strengthRequirement": null,
-            "stealthDisadvantage": true,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Padded_(Armor)"
+            "stealthDisadvantage": true
         },
         {
             "name": "Leather",
@@ -15,8 +14,7 @@
             "maxDex": 100,
             "category": "light",
             "strengthRequirement": null,
-            "stealthDisadvantage": false,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Leather_(Armor)"
+            "stealthDisadvantage": false
         },
         {
             "name": "Leather Armor",
@@ -24,8 +22,7 @@
             "maxDex": 100,
             "category": "light",
             "strengthRequirement": null,
-            "stealthDisadvantage": false,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Leather_(Armor)"
+            "stealthDisadvantage": false
         },
         {
             "name": "Studded Leather",
@@ -33,8 +30,7 @@
             "maxDex": 100,
             "category": "light",
             "strengthRequirement": null,
-            "stealthDisadvantage": false,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Studded_Leather_(Armor)"
+            "stealthDisadvantage": false
         },
         {
             "name": "Hide",
@@ -42,8 +38,7 @@
             "maxDex": 2,
             "category": "medium",
             "strengthRequirement": null,
-            "stealthDisadvantage": false,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Hide_(Armor)"
+            "stealthDisadvantage": false
         },
         {
             "name": "Hide Armor",
@@ -51,8 +46,7 @@
             "maxDex": 2,
             "category": "medium",
             "strengthRequirement": null,
-            "stealthDisadvantage": false,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Hide_(Armor)"
+            "stealthDisadvantage": false
         },
         {
             "name": "Chain Shirt",
@@ -60,8 +54,7 @@
             "maxDex": 2,
             "category": "medium",
             "strengthRequirement": null,
-            "stealthDisadvantage": false,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Chain_Shirt_(Armor)"
+            "stealthDisadvantage": false
         },
         {
             "name": "Scale Mail",
@@ -69,17 +62,7 @@
             "maxDex": 2,
             "category": "medium",
             "strengthRequirement": null,
-            "stealthDisadvantage": true,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Scale_Mail_(Armor)"
-        },
-        {
-            "name": "Spiked Armor",
-            "ac": 14,
-            "maxDex": 2,
-            "category": "medium",
-            "strengthRequirement": null,
-            "stealthDisadvantage": true,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Hide_(Armor)"
+            "stealthDisadvantage": true
         },
         {
             "name": "Breastplate",
@@ -87,8 +70,7 @@
             "maxDex": 2,
             "category": "medium",
             "strengthRequirement": null,
-            "stealthDisadvantage": false,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Breastplate_(Armor)"
+            "stealthDisadvantage": false
         },
         {
             "name": "Halfplate",
@@ -96,8 +78,7 @@
             "maxDex": 2,
             "category": "medium",
             "strengthRequirement": null,
-            "stealthDisadvantage": true,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Half_Plate_(Armor)"
+            "stealthDisadvantage": true
         },
         {
             "name": "Ring Mail",
@@ -105,8 +86,7 @@
             "maxDex": 0,
             "category": "heavy",
             "strengthRequirement": null,
-            "stealthDisadvantage": true,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Ring_Mail_(Armor)"
+            "stealthDisadvantage": true
         },
         {
             "name": "Chain Mail",
@@ -114,8 +94,7 @@
             "maxDex": 0,
             "category": "heavy",
             "strengthRequirement": 13,
-            "stealthDisadvantage": true,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Chain_Mail_(Armor)"
+            "stealthDisadvantage": true
         },
         {
             "name": "Splint",
@@ -123,8 +102,7 @@
             "maxDex": 0,
             "category": "heavy",
             "strengthRequirement": 15,
-            "stealthDisadvantage": true,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Splint_(Armor)"
+            "stealthDisadvantage": true
         },
         {
             "name": "Plate",
@@ -132,8 +110,7 @@
             "maxDex": 0,
             "category": "heavy",
             "strengthRequirement": 15,
-            "stealthDisadvantage": true,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Plate_(Armor)"
+            "stealthDisadvantage": true
         },
         {
             "name": "Shield",
@@ -141,8 +118,7 @@
             "maxDex": 0,
             "category": "shield",
             "strengthRequirement": null,
-            "stealthDisadvantage": false,
-            "url": "https://www.dandwiki.com/wiki/5e_SRD:Shield_(Armor)"
+            "stealthDisadvantage": false
         }
     ]
 }
