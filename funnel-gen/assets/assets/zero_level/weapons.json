@@ -1,7 +1,8 @@
 {
     "weapons": [
         {
-            "name": "Club",
+            "id": "Club",
+            "displayName": "Club",
             "damage": "1d4",
             "damageType": "Bludgeoning",
             "type": "melee",
@@ -9,7 +10,8 @@
             "properties": "Light"
         },
         {
-            "name": "Dagger",
+            "id": "Dagger",
+            "displayName": "Dagger",
             "damage": "1d4",
             "damageType": "Piercing",
             "type": "finesse",
@@ -17,7 +19,8 @@
             "properties": "Finesse, light, thrown (range 20/60)"
         },
         {
-            "name": "Shortsword",
+            "id": "Shortsword",
+            "displayName": "Shortsword",
             "damage": "1d6",
             "damageType": "Slashing",
             "type": "finesse",
@@ -25,7 +28,8 @@
             "properties": "Finesse, light"
         },
         {
-            "name": "Short Sword",
+            "id": "Short Sword",
+            "displayName": "Short Sword",
             "damage": "1d6",
             "damageType": "Slashing",
             "type": "finesse",
@@ -33,7 +37,8 @@
             "properties": "Finesse, light"
         },
         {
-            "name": "Quarterstaff",
+            "id": "Quarterstaff",
+            "displayName": "Quarterstaff",
             "damage": "1d6",
             "damageType": "Bludgeoning",
             "type": "melee",
@@ -41,7 +46,8 @@
             "properties": "Versatile (1d8)"
         },
         {
-            "name": "Light Hammer",
+            "id": "Light Hammer",
+            "displayName": "Light Hammer",
             "damage": "1d4",
             "damageType": "Bludgeoning",
             "type": "melee",
@@ -49,7 +55,8 @@
             "properties": "Light, thrown (range 20/60)"
         },
         {
-            "name": "Handaxe",
+            "id": "Handaxe",
+            "displayName": "Handaxe",
             "damage": "1d6",
             "damageType": "Slashing",
             "type": "melee",
@@ -57,7 +64,8 @@
             "properties": "Light, thrown (range 20/60)"
         },
         {
-            "name": "Greataxe",
+            "id": "Greataxe",
+            "displayName": "Greataxe",
             "damage": "1d12",
             "damageType": "Slashing",
             "type": "melee",
@@ -65,7 +73,8 @@
             "properties": "Heavy, two-handed"
         },
         {
-            "name": "Maul",
+            "id": "Maul",
+            "displayName": "Maul",
             "damage": "2d6",
             "damageType": "Bludgeoning",
             "type": "melee",
@@ -73,7 +82,8 @@
             "properties": "Heavy, two-handed"
         },
         {
-            "name": "Whip",
+            "id": "Whip",
+            "displayName": "Whip",
             "damage": "1d4",
             "damageType": "Slashing",
             "type": "finesse",
@@ -81,7 +91,8 @@
             "properties": "Finesse, reach"
         },
         {
-            "name": "Net",
+            "id": "Net",
+            "displayName": "Net",
             "damage": "0",
             "damageType": "Bludgeoning",
             "type": "special",
@@ -89,7 +100,8 @@
             "properties": "Special, thrown (range 5/15)"
         },
         {
-            "name": "Spear",
+            "id": "Spear",
+            "displayName": "Spear",
             "damage": "1d6",
             "damageType": "Piercing",
             "type": "melee",
@@ -97,7 +109,8 @@
             "properties": "Thrown, versatile (1d8)"
         },
         {
-            "name": "Pitchfork (Spear)",
+            "id": "Pitchfork (Spear)",
+            "displayName": "Pitchfork (Spear)",
             "damage": "1d6",
             "damageType": "Piercing",
             "type": "melee",
@@ -105,7 +118,8 @@
             "properties": "Thrown, versatile (1d8)"
         },
         {
-            "name": "Scimitar",
+            "id": "Scimitar",
+            "displayName": "Scimitar",
             "damage": "1d6",
             "damageType": "Slashing",
             "type": "finesse",
@@ -113,7 +127,8 @@
             "properties": "Finesse, light"
         },
         {
-            "name": "Blowgun (10 needles)",
+            "id": "Blowgun (10 needles)",
+            "displayName": "Blowgun (10 needles)",
             "damage": "1",
             "damageType": "Piercing",
             "type": "ranged",
@@ -121,14 +136,16 @@
             "properties": "Ammunition (range 25/100), loading"
         },
         {
-            "name": "Flail",
+            "id": "Flail",
+            "displayName": "Flail",
             "damage": "1d8",
             "damageType": "Bludgeoning",
             "type": "melee",
             "ability": "STR"
         },
         {
-            "name": "Short bow",
+            "id": "Short bow",
+            "displayName": "Short bow",
             "damage": "1d6",
             "damageType": "Piercing",
             "type": "ranged",
@@ -136,7 +153,8 @@
             "properties": "Ammunition (range 80/320), two-handed"
         },
         {
-            "name": "Shortbow (20 arrows)",
+            "id": "Shortbow (20 arrows)",
+            "displayName": "Shortbow (20 arrows)",
             "damage": "1d6",
             "damageType": "Piercing",
             "type": "ranged",
@@ -144,7 +162,8 @@
             "properties": "Ammunition (range 80/320), two-handed"
         },
         {
-            "name": "Shortbow (10 arrows)",
+            "id": "Shortbow (10 arrows)",
+            "displayName": "Shortbow (10 arrows)",
             "damage": "1d6",
             "damageType": "Piercing",
             "type": "ranged",
@@ -152,7 +171,8 @@
             "properties": "Ammunition (range 80/320), two-handed"
         },
         {
-            "name": "Longbow (10 arrows)",
+            "id": "Longbow (10 arrows)",
+            "displayName": "Longbow (10 arrows)",
             "damage": "1d8",
             "damageType": "Piercing",
             "type": "ranged",
@@ -160,7 +180,8 @@
             "properties": "Ammunition (range 150/600), heavy, two-handed"
         },
         {
-            "name": "Longbow (io arrows)",
+            "id": "Longbow (io arrows)",
+            "displayName": "Longbow (io arrows)",
             "damage": "1d8",
             "damageType": "Piercing",
             "type": "ranged",
@@ -168,7 +189,8 @@
             "properties": "Ammunition (range 150/600), heavy, two-handed"
         },
         {
-            "name": "Light Crossbow (20 Bolts)",
+            "id": "Light Crossbow (20 Bolts)",
+            "displayName": "Light Crossbow (20 Bolts)",
             "damage": "1d8",
             "damageType": "Piercing",
             "type": "ranged",
@@ -176,7 +198,8 @@
             "properties": "Ammunition (range 80/320), loading, two-handed"
         },
         {
-            "name": "Hand Crossbow",
+            "id": "Hand Crossbow",
+            "displayName": "Hand Crossbow",
             "damage": "1d6",
             "damageType": "Piercing",
             "type": "ranged",
@@ -184,7 +207,8 @@
             "properties": "Ammunition (range 30/120), light, loading"
         },
         {
-            "name": "Sickle",
+            "id": "Sickle",
+            "displayName": "Sickle",
             "damage": "1d4",
             "damageType": "Slashing",
             "type": "melee",
@@ -192,14 +216,16 @@
             "properties": "Light"
         },
         {
-            "name": "Mace",
+            "id": "Mace",
+            "displayName": "Mace",
             "damage": "1d6",
             "damageType": "Bludgeoning",
             "type": "melee",
             "ability": "STR"
         },
         {
-            "name": "Rapier",
+            "id": "Rapier",
+            "displayName": "Rapier",
             "damage": "1d8",
             "damageType": "Piercing",
             "type": "finesse",
@@ -207,7 +233,8 @@
             "properties": "Finesse"
         },
         {
-            "name": "Longsword",
+            "id": "Longsword",
+            "displayName": "Longsword",
             "damage": "1d8",
             "damageType": "Slashing",
             "type": "melee",
@@ -215,7 +242,8 @@
             "properties": "Versatile (1d10)"
         },
         {
-            "name": "Greatclub",
+            "id": "Greatclub",
+            "displayName": "Greatclub",
             "damage": "1d8",
             "damageType": "Bludgeoning",
             "type": "melee",
@@ -223,7 +251,8 @@
             "properties": "Two-handed"
         },
         {
-            "name": "Broom (Quarterstaff)",
+            "id": "Broom (Quarterstaff)",
+            "displayName": "Broom (Quarterstaff)",
             "damage": "1d6",
             "damageType": "Bludgeoning",
             "type": "melee",
@@ -231,7 +260,8 @@
             "properties": "Versatile (1d8)"
         },
         {
-            "name": "Butcher Knife (Handaxe)",
+            "id": "Butcher Knife (Handaxe)",
+            "displayName": "Butcher Knife (Handaxe)",
             "damage": "1d6",
             "damageType": "Slashing",
             "type": "melee",
@@ -239,7 +269,8 @@
             "properties": "Light, thrown (range 20/60)"
         },
         {
-            "name": "Bone Knife (Dagger)",
+            "id": "Bone Knife (Dagger)",
+            "displayName": "Bone Knife (Dagger)",
             "damage": "1d4",
             "damageType": "Piercing",
             "type": "finesse",
@@ -247,7 +278,8 @@
             "properties": "Finesse, light, thrown (range 20/60)"
         },
         {
-            "name": "Knife (Dagger)",
+            "id": "Knife (Dagger)",
+            "displayName": "Knife (Dagger)",
             "damage": "1d4",
             "damageType": "Piercing",
             "type": "finesse",
@@ -255,7 +287,8 @@
             "properties": "Finesse, light, thrown (range 20/60)"
         },
         {
-            "name": "Scissors (Dagger)",
+            "id": "Scissors (Dagger)",
+            "displayName": "Scissors (Dagger)",
             "damage": "1d4",
             "damageType": "Piercing",
             "type": "finesse",
@@ -263,7 +296,8 @@
             "properties": "Finesse, light, thrown (range 20/60)"
         },
         {
-            "name": "Compass (dagger)",
+            "id": "Compass (dagger)",
+            "displayName": "Compass (dagger)",
             "damage": "1d4",
             "damageType": "Piercing",
             "type": "finesse",
@@ -271,7 +305,8 @@
             "properties": "Finesse, light, thrown (range 20/60)"
         },
         {
-            "name": "Chisel (Dagger)",
+            "id": "Chisel (Dagger)",
+            "displayName": "Chisel (Dagger)",
             "damage": "1d4",
             "damageType": "Piercing",
             "type": "finesse",
@@ -279,7 +314,8 @@
             "properties": "Finesse, light, thrown (range 20/60)"
         },
         {
-            "name": "Quill (dagger)",
+            "id": "Quill (dagger)",
+            "displayName": "Quill (dagger)",
             "damage": "1d4",
             "damageType": "Piercing",
             "type": "finesse",
@@ -287,7 +323,8 @@
             "properties": "Finesse, light, thrown (range 20/60)"
         },
         {
-            "name": "Ornate Dagger",
+            "id": "Ornate Dagger",
+            "displayName": "Ornate Dagger",
             "damage": "1d4",
             "damageType": "Piercing",
             "type": "finesse",
@@ -295,7 +332,8 @@
             "properties": "Finesse, light, thrown (range 20/60)"
         },
         {
-            "name": "Cast Iron Pan (Club)",
+            "id": "Cast Iron Pan (Club)",
+            "displayName": "Cast Iron Pan (Club)",
             "damage": "1d4",
             "damageType": "Bludgeoning",
             "type": "melee",
@@ -303,7 +341,8 @@
             "properties": "Light"
         },
         {
-            "name": "Steel Beer Stein (Club)",
+            "id": "Steel Beer Stein (Club)",
+            "displayName": "Steel Beer Stein (Club)",
             "damage": "1d4",
             "damageType": "Bludgeoning",
             "type": "melee",
@@ -311,7 +350,8 @@
             "properties": "Light"
         },
         {
-            "name": "Rolling Pin (club)",
+            "id": "Rolling Pin (club)",
+            "displayName": "Rolling Pin (club)",
             "damage": "1d4",
             "damageType": "Bludgeoning",
             "type": "melee",
@@ -319,7 +359,8 @@
             "properties": "Light"
         },
         {
-            "name": "Wooden Spoon (club)",
+            "id": "Wooden Spoon (club)",
+            "displayName": "Wooden Spoon (club)",
             "damage": "1d4",
             "damageType": "Bludgeoning",
             "type": "melee",
@@ -327,7 +368,8 @@
             "properties": "Light"
         },
         {
-            "name": "Brush (Club)",
+            "id": "Brush (Club)",
+            "displayName": "Brush (Club)",
             "damage": "1d4",
             "damageType": "Bludgeoning",
             "type": "melee",
@@ -335,7 +377,8 @@
             "properties": "Light"
         },
         {
-            "name": "Shears (Shortsword)",
+            "id": "Shears (Shortsword)",
+            "displayName": "Shears (Shortsword)",
             "damage": "1d6",
             "damageType": "Slashing",
             "type": "finesse",
@@ -343,7 +386,8 @@
             "properties": "Finesse, light"
         },
         {
-            "name": "Quarterstaff (with religious ornament)",
+            "id": "Quarterstaff (with religious ornament)",
+            "displayName": "Quarterstaff (with religious ornament)",
             "damage": "1d6",
             "damageType": "Bludgeoning",
             "type": "melee",

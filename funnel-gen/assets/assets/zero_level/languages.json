@@ -1,67 +1,83 @@
 {
     "languages": [
         {
-            "name": "Common",
+            "id": "Common",
+            "displayName": "Common",
             "type": "standard"
         },
         {
-            "name": "Dwarvish",
+            "id": "Dwarvish",
+            "displayName": "Dwarvish",
             "type": "standard"
         },
         {
-            "name": "Elvish",
+            "id": "Elvish",
+            "displayName": "Elvish",
             "type": "standard"
         },
         {
-            "name": "Giant",
+            "id": "Giant",
+            "displayName": "Giant",
             "type": "standard"
         },
         {
-            "name": "Gnomish",
+            "id": "Gnomish",
+            "displayName": "Gnomish",
             "type": "standard"
         },
         {
-            "name": "Goblin",
+            "id": "Goblin",
+            "displayName": "Goblin",
             "type": "standard"
         },
         {
-            "name": "Halfling",
+            "id": "Halfling",
+            "displayName": "Halfling",
             "type": "standard"
         },
         {
-            "name": "Orc",
+            "id": "Orc",
+            "displayName": "Orc",
             "type": "standard"
         },
         {
-            "name": "Abyssal",
+            "id": "Abyssal",
+            "displayName": "Abyssal",
             "type": "exotic"
         },
         {
-            "name": "Celestial",
+            "id": "Celestial",
+            "displayName": "Celestial",
             "type": "exotic"
         },
         {
-            "name": "Draconic",
+            "id": "Draconic",
+            "displayName": "Draconic",
             "type": "exotic"
         },
         {
-            "name": "Deep Speech",
+            "id": "Deep Speech",
+            "displayName": "Deep Speech",
             "type": "exotic"
         },
         {
-            "name": "Infernal",
+            "id": "Infernal",
+            "displayName": "Infernal",
             "type": "exotic"
         },
         {
-            "name": "Primordial",
+            "id": "Primordial",
+            "displayName": "Primordial",
             "type": "exotic"
         },
         {
-            "name": "Sylvan",
+            "id": "Sylvan",
+            "displayName": "Sylvan",
             "type": "exotic"
         },
         {
-            "name": "Undercommon",
+            "id": "Undercommon",
+            "displayName": "Undercommon",
             "type": "exotic"
         }
     ]

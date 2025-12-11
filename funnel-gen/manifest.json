@@ -1,11 +1,11 @@
 {
-    "name": "fun_level_zero",
-    "short_name": "fun_level_zero",
+    "name": "Level Zero Generator",
+    "short_name": "Level Zero Generator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Character Generator for level zero, using DnD 5e ruleset",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

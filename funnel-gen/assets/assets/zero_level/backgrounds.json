@@ -1,7 +1,8 @@
 {
     "backgrounds": [
         {
-            "name": "Blacksmith",
+            "id": "Blacksmith",
+            "displayName": "Blacksmith",
             "skills": [],
             "tools": [
                 "Smith's Tools"
@@ -17,7 +18,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Miner",
+            "id": "Miner",
+            "displayName": "Miner",
             "skills": [
                 "Investigation"
             ],
@@ -33,7 +35,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Teamster",
+            "id": "Teamster",
+            "displayName": "Teamster",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -47,7 +50,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Bodyguard",
+            "id": "Bodyguard",
+            "displayName": "Bodyguard",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -61,7 +65,8 @@
             "armorProficiency": "Medium Armor, Shields"
         },
         {
-            "name": "Plowman",
+            "id": "Plowman",
+            "displayName": "Plowman",
             "skills": [
                 "Nature"
             ],
@@ -77,7 +82,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Rough",
+            "id": "Rough",
+            "displayName": "Rough",
             "skills": [
                 "Intimidation"
             ],
@@ -93,7 +99,8 @@
             "armorProficiency": "Light Armor"
         },
         {
-            "name": "Butcher",
+            "id": "Butcher",
+            "displayName": "Butcher",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -107,7 +114,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Gladiator",
+            "id": "Gladiator",
+            "displayName": "Gladiator",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -121,7 +129,8 @@
             "armorProficiency": "Medium Armor, Shields"
         },
         {
-            "name": "Woodcutter",
+            "id": "Woodcutter",
+            "displayName": "Woodcutter",
             "skills": [
                 "Nature"
             ],
@@ -137,7 +146,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Carpenter",
+            "id": "Carpenter",
+            "displayName": "Carpenter",
             "skills": [],
             "tools": [
                 "Carpenter's Tools"
@@ -153,7 +163,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Milkman",
+            "id": "Milkman",
+            "displayName": "Milkman",
             "skills": [
                 "Animal Handling"
             ],
@@ -169,7 +180,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Executioner",
+            "id": "Executioner",
+            "displayName": "Executioner",
             "skills": [
                 "Intimidation"
             ],
@@ -185,7 +197,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Mercenary",
+            "id": "Mercenary",
+            "displayName": "Mercenary",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -199,7 +212,8 @@
             "armorProficiency": "Light Armor"
         },
         {
-            "name": "Bone Carver",
+            "id": "Bone Carver",
+            "displayName": "Bone Carver",
             "skills": [],
             "tools": [
                 "Woodcarver's Tools"
@@ -215,7 +229,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Mason",
+            "id": "Mason",
+            "displayName": "Mason",
             "skills": [],
             "tools": [
                 "Mason's Tools"
@@ -231,7 +246,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Grinder",
+            "id": "Grinder",
+            "displayName": "Grinder",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -245,7 +261,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Plattner",
+            "id": "Plattner",
+            "displayName": "Plattner",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -259,7 +276,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Porter",
+            "id": "Porter",
+            "displayName": "Porter",
             "skills": [
                 "Perception"
             ],
@@ -275,7 +293,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Jailer",
+            "id": "Jailer",
+            "displayName": "Jailer",
             "skills": [
                 "Investigation"
             ],
@@ -291,7 +310,8 @@
             "armorProficiency": "Light Armor"
         },
         {
-            "name": "Wagoner",
+            "id": "Wagoner",
+            "displayName": "Wagoner",
             "skills": [],
             "tools": [
                 "Vehicles (Land)",
@@ -308,7 +328,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Pickpocket",
+            "id": "Pickpocket",
+            "displayName": "Pickpocket",
             "skills": [
                 "Sleight of Hand"
             ],
@@ -324,7 +345,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Haberdasher",
+            "id": "Haberdasher",
+            "displayName": "Haberdasher",
             "skills": [
                 "Persuasion"
             ],
@@ -340,7 +362,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Orphan",
+            "id": "Orphan",
+            "displayName": "Orphan",
             "skills": [
                 "Stealth"
             ],
@@ -356,7 +379,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Circus Acrobat",
+            "id": "Circus Acrobat",
+            "displayName": "Circus Acrobat",
             "skills": [
                 "Acrobatics"
             ],
@@ -372,7 +396,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Glassblower",
+            "id": "Glassblower",
+            "displayName": "Glassblower",
             "skills": [],
             "tools": [
                 "Glassblower's Tools"
@@ -388,7 +413,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Messenger",
+            "id": "Messenger",
+            "displayName": "Messenger",
             "skills": [
                 "Persuasion"
             ],
@@ -404,7 +430,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Locksmith",
+            "id": "Locksmith",
+            "displayName": "Locksmith",
             "skills": [],
             "tools": [
                 "Thieves' Tools"
@@ -420,7 +447,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Weaver",
+            "id": "Weaver",
+            "displayName": "Weaver",
             "skills": [],
             "tools": [
                 "Weaver's Tools"
@@ -436,7 +464,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Hunter",
+            "id": "Hunter",
+            "displayName": "Hunter",
             "skills": [
                 "Nature"
             ],
@@ -452,7 +481,8 @@
             "armorProficiency": "Light Armor"
         },
         {
-            "name": "Contortionist",
+            "id": "Contortionist",
+            "displayName": "Contortionist",
             "skills": [
                 "Performance"
             ],
@@ -468,7 +498,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Potter",
+            "id": "Potter",
+            "displayName": "Potter",
             "skills": [],
             "tools": [
                 "Potter's Tools"
@@ -484,7 +515,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Bandit",
+            "id": "Bandit",
+            "displayName": "Bandit",
             "skills": [
                 "Stealth"
             ],
@@ -500,7 +532,8 @@
             "armorProficiency": "Light Armor"
         },
         {
-            "name": "Basketweaver",
+            "id": "Basketweaver",
+            "displayName": "Basketweaver",
             "skills": [],
             "tools": [
                 "Weaver's Tools"
@@ -516,7 +549,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Bookbinder",
+            "id": "Bookbinder",
+            "displayName": "Bookbinder",
             "skills": [],
             "tools": [
                 "Calligrapher's Supplies"
@@ -532,7 +566,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Fletcher",
+            "id": "Fletcher",
+            "displayName": "Fletcher",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -546,7 +581,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Gilder",
+            "id": "Gilder",
+            "displayName": "Gilder",
             "skills": [],
             "tools": [
                 "Jeweler's Tools"
@@ -562,7 +598,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Miniaturist",
+            "id": "Miniaturist",
+            "displayName": "Miniaturist",
             "skills": [],
             "tools": [
                 "Painter's Supplies"
@@ -578,7 +615,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Chicken Butcher",
+            "id": "Chicken Butcher",
+            "displayName": "Chicken Butcher",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -592,7 +630,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Glovemaker",
+            "id": "Glovemaker",
+            "displayName": "Glovemaker",
             "skills": [],
             "tools": [
                 "Leatherworker's Tools"
@@ -608,7 +647,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Jeweler",
+            "id": "Jeweler",
+            "displayName": "Jeweler",
             "skills": [],
             "tools": [
                 "Jeweler's Tools"
@@ -624,7 +664,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Gong Farmer",
+            "id": "Gong Farmer",
+            "displayName": "Gong Farmer",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -638,7 +679,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Pig Farmer",
+            "id": "Pig Farmer",
+            "displayName": "Pig Farmer",
             "skills": [
                 "Animal Handling"
             ],
@@ -654,7 +696,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Leatherworker",
+            "id": "Leatherworker",
+            "displayName": "Leatherworker",
             "skills": [],
             "tools": [
                 "Leatherworker's Tools"
@@ -670,7 +713,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Rat Catcher",
+            "id": "Rat Catcher",
+            "displayName": "Rat Catcher",
             "skills": [
                 "Animal Handling"
             ],
@@ -686,7 +730,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Seaman",
+            "id": "Seaman",
+            "displayName": "Seaman",
             "skills": [],
             "tools": [
                 "Vehicles (Water)",
@@ -703,7 +748,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Tavern Cook",
+            "id": "Tavern Cook",
+            "displayName": "Tavern Cook",
             "skills": [],
             "tools": [
                 "Cook's Utensils"
@@ -719,7 +765,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Brewer",
+            "id": "Brewer",
+            "displayName": "Brewer",
             "skills": [],
             "tools": [
                 "Brewer's Supplies"
@@ -735,7 +782,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Chandler",
+            "id": "Chandler",
+            "displayName": "Chandler",
             "skills": [
                 "Investigation"
             ],
@@ -751,7 +799,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Apiarist",
+            "id": "Apiarist",
+            "displayName": "Apiarist",
             "skills": [
                 "Animal Handling"
             ],
@@ -767,7 +816,8 @@
             "armorProficiency": "Light Armor"
         },
         {
-            "name": "Stone Carver",
+            "id": "Stone Carver",
+            "displayName": "Stone Carver",
             "skills": [
                 "Performance"
             ],
@@ -783,7 +833,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Undertaker",
+            "id": "Undertaker",
+            "displayName": "Undertaker",
             "skills": [
                 "Insight"
             ],
@@ -799,7 +850,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Grave Digger",
+            "id": "Grave Digger",
+            "displayName": "Grave Digger",
             "skills": [
                 "Athletics"
             ],
@@ -815,7 +867,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Chestmaker",
+            "id": "Chestmaker",
+            "displayName": "Chestmaker",
             "skills": [],
             "tools": [
                 "Woodcarver's Tools"
@@ -831,7 +884,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Broom maker",
+            "id": "Broom maker",
+            "displayName": "Broom maker",
             "skills": [],
             "tools": [
                 "Woodcarver's Tools"
@@ -847,7 +901,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Sheep Shearer",
+            "id": "Sheep Shearer",
+            "displayName": "Sheep Shearer",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -861,7 +916,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Parchmenter",
+            "id": "Parchmenter",
+            "displayName": "Parchmenter",
             "skills": [
                 "Investigation"
             ],
@@ -877,7 +933,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Smelter",
+            "id": "Smelter",
+            "displayName": "Smelter",
             "skills": [],
             "tools": [
                 "Tinkerer's tools"
@@ -893,7 +950,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Cooper",
+            "id": "Cooper",
+            "displayName": "Cooper",
             "skills": [],
             "tools": [
                 "Carpenter's Tools"
@@ -909,7 +967,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Haenyeo",
+            "id": "Haenyeo",
+            "displayName": "Haenyeo",
             "skills": [
                 "Athletics"
             ],
@@ -925,7 +984,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Roofer",
+            "id": "Roofer",
+            "displayName": "Roofer",
             "skills": [],
             "tools": [
                 "Carpenter's Tools"
@@ -941,7 +1001,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Bookkeeper",
+            "id": "Bookkeeper",
+            "displayName": "Bookkeeper",
             "skills": [
                 "Investigation"
             ],
@@ -957,7 +1018,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Tax Collector",
+            "id": "Tax Collector",
+            "displayName": "Tax Collector",
             "skills": [
                 "Intimidation"
             ],
@@ -973,7 +1035,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Wizard's Apprentice",
+            "id": "Wizard's Apprentice",
+            "displayName": "Wizard's Apprentice",
             "skills": [
                 "Arcana"
             ],
@@ -990,7 +1053,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Apothecary",
+            "id": "Apothecary",
+            "displayName": "Apothecary",
             "skills": [
                 "Medicine"
             ],
@@ -1007,7 +1071,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Tinker",
+            "id": "Tinker",
+            "displayName": "Tinker",
             "skills": [],
             "tools": [
                 "Tinkerer's tools"
@@ -1024,7 +1089,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Tutor",
+            "id": "Tutor",
+            "displayName": "Tutor",
             "skills": [
                 "History"
             ],
@@ -1040,7 +1106,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Navigator",
+            "id": "Navigator",
+            "displayName": "Navigator",
             "skills": [],
             "tools": [
                 "Navigator's Tools"
@@ -1057,7 +1124,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Pastry Cook",
+            "id": "Pastry Cook",
+            "displayName": "Pastry Cook",
             "skills": [],
             "tools": [
                 "Cook's Utensils"
@@ -1073,7 +1141,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Cartographer",
+            "id": "Cartographer",
+            "displayName": "Cartographer",
             "skills": [],
             "tools": [
                 "Cartographer's Tools"
@@ -1090,7 +1159,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Interpreter",
+            "id": "Interpreter",
+            "displayName": "Interpreter",
             "skills": [],
             "tools": [],
             "languages": [
@@ -1107,7 +1177,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Scrivener",
+            "id": "Scrivener",
+            "displayName": "Scrivener",
             "skills": [],
             "tools": [
                 "Calligrapher's Supplies"
@@ -1123,7 +1194,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Banker",
+            "id": "Banker",
+            "displayName": "Banker",
             "skills": [
                 "Insight"
             ],
@@ -1139,7 +1211,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Barrister",
+            "id": "Barrister",
+            "displayName": "Barrister",
             "skills": [
                 "Persuasion"
             ],
@@ -1155,7 +1228,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Clockmaker",
+            "id": "Clockmaker",
+            "displayName": "Clockmaker",
             "skills": [],
             "tools": [
                 "Tinkerer's tools"
@@ -1172,7 +1246,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Lampwright",
+            "id": "Lampwright",
+            "displayName": "Lampwright",
             "skills": [],
             "tools": [
                 "Glassblower's Tools"
@@ -1189,7 +1264,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Lensgrinder",
+            "id": "Lensgrinder",
+            "displayName": "Lensgrinder",
             "skills": [],
             "tools": [
                 "Tinkerer's tools"
@@ -1206,7 +1282,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Portraitist",
+            "id": "Portraitist",
+            "displayName": "Portraitist",
             "skills": [],
             "tools": [
                 "Painter's Supplies"
@@ -1222,7 +1299,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Herald",
+            "id": "Herald",
+            "displayName": "Herald",
             "skills": [
                 "Performance"
             ],
@@ -1239,7 +1317,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Astronomer",
+            "id": "Astronomer",
+            "displayName": "Astronomer",
             "skills": [
                 "History"
             ],
@@ -1256,7 +1335,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Knifeman",
+            "id": "Knifeman",
+            "displayName": "Knifeman",
             "skills": [
                 "Medicine"
             ],
@@ -1273,7 +1353,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Herbalist",
+            "id": "Herbalist",
+            "displayName": "Herbalist",
             "skills": [
                 "Medicine"
             ],
@@ -1290,7 +1371,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Sexton",
+            "id": "Sexton",
+            "displayName": "Sexton",
             "skills": [
                 "Religion"
             ],
@@ -1307,7 +1389,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Squire",
+            "id": "Squire",
+            "displayName": "Squire",
             "skills": [
                 "History"
             ],
@@ -1324,7 +1407,8 @@
             "armorProficiency": "Light Armor, Shields"
         },
         {
-            "name": "Friar",
+            "id": "Friar",
+            "displayName": "Friar",
             "skills": [
                 "Religion"
             ],
@@ -1341,7 +1425,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Woodward",
+            "id": "Woodward",
+            "displayName": "Woodward",
             "skills": [
                 "Nature"
             ],
@@ -1358,7 +1443,8 @@
             "armorProficiency": "Light Armor"
         },
         {
-            "name": "Tracker",
+            "id": "Tracker",
+            "displayName": "Tracker",
             "skills": [
                 "Survival"
             ],
@@ -1375,7 +1461,8 @@
             "armorProficiency": "Medium Armor"
         },
         {
-            "name": "Painter",
+            "id": "Painter",
+            "displayName": "Painter",
             "skills": [],
             "tools": [
                 "Painter's Supplies"
@@ -1391,7 +1478,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Ostler",
+            "id": "Ostler",
+            "displayName": "Ostler",
             "skills": [
                 "Animal Handling"
             ],
@@ -1407,7 +1495,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Baker",
+            "id": "Baker",
+            "displayName": "Baker",
             "skills": [],
             "tools": [
                 "Cook's Utensils"
@@ -1423,7 +1512,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Servant",
+            "id": "Servant",
+            "displayName": "Servant",
             "skills": [
                 "Perception"
             ],
@@ -1439,7 +1529,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Trapper",
+            "id": "Trapper",
+            "displayName": "Trapper",
             "skills": [
                 "Survival"
             ],
@@ -1456,7 +1547,8 @@
             "armorProficiency": "Light Armor"
         },
         {
-            "name": "Beadle",
+            "id": "Beadle",
+            "displayName": "Beadle",
             "skills": [
                 "Religion"
             ],
@@ -1473,7 +1565,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Cheesemaker",
+            "id": "Cheesemaker",
+            "displayName": "Cheesemaker",
             "skills": [],
             "tools": [
                 "Cook's Utensils"
@@ -1489,7 +1582,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Bowyer",
+            "id": "Bowyer",
+            "displayName": "Bowyer",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -1504,7 +1598,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Cobbler",
+            "id": "Cobbler",
+            "displayName": "Cobbler",
             "skills": [],
             "tools": [
                 "Cobbler's Tools"
@@ -1520,7 +1615,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Furrier",
+            "id": "Furrier",
+            "displayName": "Furrier",
             "skills": [
                 "Survival"
             ],
@@ -1537,7 +1633,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Watchman",
+            "id": "Watchman",
+            "displayName": "Watchman",
             "skills": [
                 "Perception"
             ],
@@ -1553,7 +1650,8 @@
             "armorProficiency": "Light Armor"
         },
         {
-            "name": "Midwife",
+            "id": "Midwife",
+            "displayName": "Midwife",
             "skills": [
                 "Medicine"
             ],
@@ -1570,7 +1668,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Falconer",
+            "id": "Falconer",
+            "displayName": "Falconer",
             "skills": [
                 "Animal Handling"
             ],
@@ -1587,7 +1686,8 @@
             "armorProficiency": "Light Armor"
         },
         {
-            "name": "Shaman",
+            "id": "Shaman",
+            "displayName": "Shaman",
             "skills": [
                 "Nature"
             ],
@@ -1604,7 +1704,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Barker",
+            "id": "Barker",
+            "displayName": "Barker",
             "skills": [
                 "Perception"
             ],
@@ -1620,7 +1721,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Minstrel",
+            "id": "Minstrel",
+            "displayName": "Minstrel",
             "skills": [],
             "tools": [
                 "Musical Instrument"
@@ -1637,7 +1739,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Alewife",
+            "id": "Alewife",
+            "displayName": "Alewife",
             "skills": [],
             "tools": [],
             "languages": [],
@@ -1651,7 +1754,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Low Noble",
+            "id": "Low Noble",
+            "displayName": "Low Noble",
             "skills": [
                 "Deception"
             ],
@@ -1667,7 +1771,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Costermonger",
+            "id": "Costermonger",
+            "displayName": "Costermonger",
             "skills": [
                 "Persuasion"
             ],
@@ -1683,7 +1788,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Fishmonger",
+            "id": "Fishmonger",
+            "displayName": "Fishmonger",
             "skills": [
                 "Perception"
             ],
@@ -1699,7 +1805,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Mime",
+            "id": "Mime",
+            "displayName": "Mime",
             "skills": [
                 "Performance"
             ],
@@ -1716,7 +1823,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Storyteller",
+            "id": "Storyteller",
+            "displayName": "Storyteller",
             "skills": [
                 "Performance"
             ],
@@ -1733,7 +1841,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Diplomat",
+            "id": "Diplomat",
+            "displayName": "Diplomat",
             "skills": [
                 "Insight"
             ],
@@ -1749,7 +1858,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Peddlar",
+            "id": "Peddlar",
+            "displayName": "Peddlar",
             "skills": [
                 "Persuasion"
             ],
@@ -1765,7 +1875,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Fortune-Teller",
+            "id": "Fortune-Teller",
+            "displayName": "Fortune-Teller",
             "skills": [
                 "Performance"
             ],
@@ -1782,7 +1893,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Drummer",
+            "id": "Drummer",
+            "displayName": "Drummer",
             "skills": [],
             "tools": [
                 "Drum"
@@ -1799,7 +1911,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Confectioner",
+            "id": "Confectioner",
+            "displayName": "Confectioner",
             "skills": [],
             "tools": [
                 "Cook's Utensils"
@@ -1815,7 +1928,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Milliner",
+            "id": "Milliner",
+            "displayName": "Milliner",
             "skills": [],
             "tools": [
                 "Weaver's Tools"
@@ -1831,7 +1945,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Barber",
+            "id": "Barber",
+            "displayName": "Barber",
             "skills": [
                 "Medicine"
             ],
@@ -1847,7 +1962,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Card Player",
+            "id": "Card Player",
+            "displayName": "Card Player",
             "skills": [],
             "tools": [
                 "Playing Card Set"
@@ -1864,7 +1980,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Poet",
+            "id": "Poet",
+            "displayName": "Poet",
             "skills": [
                 "Insight"
             ],
@@ -1881,7 +1998,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Singer",
+            "id": "Singer",
+            "displayName": "Singer",
             "skills": [
                 "Performance"
             ],
@@ -1898,7 +2016,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Forger",
+            "id": "Forger",
+            "displayName": "Forger",
             "skills": [],
             "tools": [
                 "Forgery Kit"
@@ -1914,7 +2033,8 @@
             "armorProficiency": ""
         },
         {
-            "name": "Conman",
+            "id": "Conman",
+            "displayName": "Conman",
             "skills": [],
             "tools": [
                 "Disguise Kit"

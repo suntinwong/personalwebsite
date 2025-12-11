@@ -1,7 +1,8 @@
 {
     "armor": [
         {
-            "name": "Padded",
+            "id": "Padded",
+            "displayName": "Padded",
             "ac": 11,
             "maxDex": 100,
             "category": "light",
@@ -9,7 +10,8 @@
             "stealthDisadvantage": true
         },
         {
-            "name": "Leather",
+            "id": "Leather",
+            "displayName": "Leather",
             "ac": 11,
             "maxDex": 100,
             "category": "light",
@@ -17,7 +19,8 @@
             "stealthDisadvantage": false
         },
         {
-            "name": "Leather Armor",
+            "id": "Leather Armor",
+            "displayName": "Leather Armor",
             "ac": 11,
             "maxDex": 100,
             "category": "light",
@@ -25,7 +28,8 @@
             "stealthDisadvantage": false
         },
         {
-            "name": "Studded Leather",
+            "id": "Studded Leather",
+            "displayName": "Studded Leather",
             "ac": 12,
             "maxDex": 100,
             "category": "light",
@@ -33,7 +37,8 @@
             "stealthDisadvantage": false
         },
         {
-            "name": "Hide",
+            "id": "Hide",
+            "displayName": "Hide",
             "ac": 12,
             "maxDex": 2,
             "category": "medium",
@@ -41,7 +46,8 @@
             "stealthDisadvantage": false
         },
         {
-            "name": "Hide Armor",
+            "id": "Hide Armor",
+            "displayName": "Hide Armor",
             "ac": 12,
             "maxDex": 2,
             "category": "medium",
@@ -49,7 +55,8 @@
             "stealthDisadvantage": false
         },
         {
-            "name": "Chain Shirt",
+            "id": "Chain Shirt",
+            "displayName": "Chain Shirt",
             "ac": 13,
             "maxDex": 2,
             "category": "medium",
@@ -57,7 +64,8 @@
             "stealthDisadvantage": false
         },
         {
-            "name": "Scale Mail",
+            "id": "Scale Mail",
+            "displayName": "Scale Mail",
             "ac": 14,
             "maxDex": 2,
             "category": "medium",
@@ -65,7 +73,8 @@
             "stealthDisadvantage": true
         },
         {
-            "name": "Breastplate",
+            "id": "Breastplate",
+            "displayName": "Breastplate",
             "ac": 14,
             "maxDex": 2,
             "category": "medium",
@@ -73,7 +82,8 @@
             "stealthDisadvantage": false
         },
         {
-            "name": "Halfplate",
+            "id": "Halfplate",
+            "displayName": "Halfplate",
             "ac": 15,
             "maxDex": 2,
             "category": "medium",
@@ -81,7 +91,8 @@
             "stealthDisadvantage": true
         },
         {
-            "name": "Ring Mail",
+            "id": "Ring Mail",
+            "displayName": "Ring Mail",
             "ac": 14,
             "maxDex": 0,
             "category": "heavy",
@@ -89,7 +100,8 @@
             "stealthDisadvantage": true
         },
         {
-            "name": "Chain Mail",
+            "id": "Chain Mail",
+            "displayName": "Chain Mail",
             "ac": 16,
             "maxDex": 0,
             "category": "heavy",
@@ -97,7 +109,8 @@
             "stealthDisadvantage": true
         },
         {
-            "name": "Splint",
+            "id": "Splint",
+            "displayName": "Splint",
             "ac": 17,
             "maxDex": 0,
             "category": "heavy",
@@ -105,7 +118,8 @@
             "stealthDisadvantage": true
         },
         {
-            "name": "Plate",
+            "id": "Plate",
+            "displayName": "Plate",
             "ac": 18,
             "maxDex": 0,
             "category": "heavy",
@@ -113,7 +127,8 @@
             "stealthDisadvantage": true
         },
         {
-            "name": "Shield",
+            "id": "Shield",
+            "displayName": "Shield",
             "ac": 2,
             "maxDex": 0,
             "category": "shield",

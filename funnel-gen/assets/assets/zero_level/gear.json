@@ -1,43 +1,53 @@
 {
     "gear_kits": [
         {
-            "name": "Farmer Kit",
+            "id": "Farmer Kit",
+            "displayName": "Farmer Kit",
             "items": [
                 {
-                    "name": "Club",
+                    "id": "Club",
+                    "displayName": "Club",
                     "quantity": 1
                 },
                 {
-                    "name": "Farming Tools",
+                    "id": "Farming Tools",
+                    "displayName": "Farming Tools",
                     "quantity": 1
                 },
                 {
-                    "name": "Rations",
+                    "id": "Rations",
+                    "displayName": "Rations",
                     "quantity": 3
                 },
                 {
-                    "name": "Copper Pieces",
+                    "id": "Copper Pieces",
+                    "displayName": "Copper Pieces",
                     "quantity": 5
                 }
             ]
         },
         {
-            "name": "Artisan Kit",
+            "id": "Artisan Kit",
+            "displayName": "Artisan Kit",
             "items": [
                 {
-                    "name": "Dagger",
+                    "id": "Dagger",
+                    "displayName": "Dagger",
                     "quantity": 1
                 },
                 {
-                    "name": "Artisan's Tools",
+                    "id": "Artisan's Tools",
+                    "displayName": "Artisan's Tools",
                     "quantity": 1
                 },
                 {
-                    "name": "Rations",
+                    "id": "Rations",
+                    "displayName": "Rations",
                     "quantity": 3
                 },
                 {
-                    "name": "Copper Pieces",
+                    "id": "Copper Pieces",
+                    "displayName": "Copper Pieces",
                     "quantity": 5
                 }
             ]

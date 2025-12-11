@@ -1,7 +1,8 @@
 {
     "species": [
         {
-            "name": "Human",
+            "id": "Human",
+            "displayName": "Human",
             "languages": [
                 "Common"
             ],
@@ -33,7 +34,8 @@
             "url": "https://roll20.net/compendium/dnd5e/Races:Human#content"
         },
         {
-            "name": "Halfling",
+            "id": "Halfling",
+            "displayName": "Halfling",
             "languages": [
                 "Common",
                 "Halfling"
@@ -67,7 +69,8 @@
             "url": "https://roll20.net/compendium/dnd5e/Races:Halfling#content"
         },
         {
-            "name": "Dwarf",
+            "id": "Dwarf",
+            "displayName": "Dwarf",
             "languages": [
                 "Common",
                 "Dwarvish"
@@ -113,7 +116,8 @@
             "url": "https://roll20.net/compendium/dnd5e/Races:Dwarf#content"
         },
         {
-            "name": "Gnome",
+            "id": "Gnome",
+            "displayName": "Gnome",
             "languages": [
                 "Common",
                 "Gnomish"
@@ -147,7 +151,8 @@
             "url": "https://roll20.net/compendium/dnd5e/Races:Gnome#content"
         },
         {
-            "name": "Tiefling",
+            "id": "Tiefling",
+            "displayName": "Tiefling",
             "languages": [
                 "Common",
                 "Infernal"
@@ -179,7 +184,8 @@
             "url": "https://roll20.net/compendium/dnd5e/Races:Tiefling#content"
         },
         {
-            "name": "Half-Elf",
+            "id": "Half-Elf",
+            "displayName": "Half-Elf",
             "languages": [
                 "Common",
                 "Elvish"
@@ -213,7 +219,8 @@
             "url": "https://roll20.net/compendium/dnd5e/Races:Half%2DElf#content"
         },
         {
-            "name": "Elf",
+            "id": "Elf",
+            "displayName": "Elf",
             "languages": [
                 "Common",
                 "Elvish"
@@ -253,7 +260,8 @@
             "url": "https://roll20.net/compendium/dnd5e/Races:Elf#content"
         },
         {
-            "name": "Half-Orc",
+            "id": "Half-Orc",
+            "displayName": "Half-Orc",
             "languages": [
                 "Common",
                 "Orcish"
@@ -288,7 +296,8 @@
             "url": "https://roll20.net/compendium/dnd5e/Half-Orc#content"
         },
         {
-            "name": "Dragonborn",
+            "id": "Dragonborn",
+            "displayName": "Dragonborn",
             "languages": [
                 "Common",
                 "Draconic"
