@@ -3,6 +3,7 @@
         {
             "id": "Padded",
             "displayName": "Padded",
+            "glossaryId": "armor_padded_001",
             "ac": 11,
             "maxDex": 100,
             "category": "light",
@@ -12,6 +13,7 @@
         {
             "id": "Leather",
             "displayName": "Leather",
+            "glossaryId": "armor_leather_001",
             "ac": 11,
             "maxDex": 100,
             "category": "light",
@@ -21,6 +23,7 @@
         {
             "id": "Leather Armor",
             "displayName": "Leather Armor",
+            "glossaryId": "armor_leather_001",
             "ac": 11,
             "maxDex": 100,
             "category": "light",
@@ -30,6 +33,7 @@
         {
             "id": "Studded Leather",
             "displayName": "Studded Leather",
+            "glossaryId": "armor_studded_leather_001",
             "ac": 12,
             "maxDex": 100,
             "category": "light",
@@ -39,6 +43,7 @@
         {
             "id": "Hide",
             "displayName": "Hide",
+            "glossaryId": "armor_hide_001",
             "ac": 12,
             "maxDex": 2,
             "category": "medium",
@@ -48,6 +53,7 @@
         {
             "id": "Hide Armor",
             "displayName": "Hide Armor",
+            "glossaryId": "armor_hide_001",
             "ac": 12,
             "maxDex": 2,
             "category": "medium",
@@ -57,6 +63,7 @@
         {
             "id": "Chain Shirt",
             "displayName": "Chain Shirt",
+            "glossaryId": "armor_chain_shirt_001",
             "ac": 13,
             "maxDex": 2,
             "category": "medium",
@@ -66,6 +73,7 @@
         {
             "id": "Scale Mail",
             "displayName": "Scale Mail",
+            "glossaryId": "armor_scale_mail_001",
             "ac": 14,
             "maxDex": 2,
             "category": "medium",
@@ -75,6 +83,7 @@
         {
             "id": "Breastplate",
             "displayName": "Breastplate",
+            "glossaryId": "armor_breastplate_001",
             "ac": 14,
             "maxDex": 2,
             "category": "medium",
@@ -84,6 +93,7 @@
         {
             "id": "Halfplate",
             "displayName": "Halfplate",
+            "glossaryId": "armor_halfplate_001",
             "ac": 15,
             "maxDex": 2,
             "category": "medium",
@@ -93,6 +103,7 @@
         {
             "id": "Ring Mail",
             "displayName": "Ring Mail",
+            "glossaryId": "armor_ring_mail_001",
             "ac": 14,
             "maxDex": 0,
             "category": "heavy",
@@ -102,6 +113,7 @@
         {
             "id": "Chain Mail",
             "displayName": "Chain Mail",
+            "glossaryId": "armor_chain_mail_001",
             "ac": 16,
             "maxDex": 0,
             "category": "heavy",
@@ -111,6 +123,7 @@
         {
             "id": "Splint",
             "displayName": "Splint",
+            "glossaryId": "armor_splint_001",
             "ac": 17,
             "maxDex": 0,
             "category": "heavy",
@@ -120,6 +133,7 @@
         {
             "id": "Plate",
             "displayName": "Plate",
+            "glossaryId": "armor_plate_001",
             "ac": 18,
             "maxDex": 0,
             "category": "heavy",
@@ -129,6 +143,7 @@
         {
             "id": "Shield",
             "displayName": "Shield",
+            "glossaryId": "armor_shield_001",
             "ac": 2,
             "maxDex": 0,
             "category": "shield",

@@ -1,0 +1,23 @@
+{
+    "version": "2.0",
+    "description": "Glossary system metadata - defines categories and their file locations. Aliases are stored directly in glossary JSON files.",
+    "categories": {
+        "armor": {
+            "file": "glossary/armor.json",
+            "description": "Armor glossary entries"
+        },
+        "traits": {
+            "file": "glossary/traits.json",
+            "description": "Species trait glossary entries"
+        },
+        "weapons": {
+            "file": "glossary/weapons.json",
+            "description": "Weapon glossary entries"
+        },
+        "weaponProperties": {
+            "file": "glossary/weapon_properties.json",
+            "description": "Weapon property glossary entries"
+        }
+    }
+}
+
